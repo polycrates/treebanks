@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cd4599ac1bb4bd1b6497c3aeb19c9df9",
+    "revision": "73fb7f90d5315c4ff8420f397c90f0f9",
     "url": "/treebank-template/index.html"
   },
   {
