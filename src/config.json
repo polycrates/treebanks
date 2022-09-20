@@ -32,6 +32,31 @@
           ]
         }
       ]
-    }
+    },
+    {
+      "title": "Prose Treebanks",
+      "text": "The template for this treebank publication is maintained by the Perseids Project."
+    },
+    {
+      "title": "Apuleius",
+      "publications": [
+       {
+          "path": "Metamorphoses1",
+          "author": "Apuleius",
+          "work": "Metamorphoses",
+          "editors": "David Chamberlain",
+          "sections": [
+            {
+              "locus": "2-234",
+              "path": "Apuleius Met 1",
+              "xml": "apuleiusMet1tree.xml",
+              "link": "https://www.example.com",
+              "notes": "",
+              "chunks": { "start": 2, "end": 234 }
+            }
+          ]
+        }
+      ]
+    }    
   ]
 }
