@@ -42,6 +42,7 @@ class EmbeddedTreebank extends Component {
           <div id="treebank_container" className={styles.treebankContainer} />
         </div>
         <div className={styles.links}>
+          <PartOfSpeech />
           <a href={`${process.env.PUBLIC_URL}/${publication}/${chunk}`} target="_blank" rel="noopener noreferrer">
             Credits and more information
           </a>
