@@ -425,7 +425,7 @@
     <word form=',' head='0' id='42' lemma='punc1' postag='u--------' relation='AuxX'></word>
     <word form='diem' gloss='' head='44' id='43' lemma='dies' lmod='' postag='n-s---fa-' relation='SBJ'></word>
     <word form='tollī' gloss='' head='45' id='44' lemma='tollo' lmod='' postag='v--pnp---' relation='OBJ_CO'></word>
-    <word form=',' head='18' id='45' lemma='punc1' postag='u--------' relation='AuxX'></word>
+    <word form=',' head='18' id='45' lemma='punc1' postag='u--------' relation='COORD'></word>
     <word form='noctem' gloss='' head='47' id='46' lemma='nox' lmod='' postag='n-s---fa-' relation='SBJ'></word>
     <word form='tenērī' gloss='' head='45' id='47' lemma='teneo' lmod='' postag='v--pnp---' relation='OBJ_CO'></word>
     <word form='.' head='0' id='48' lemma='punc1' postag='u--------' relation='AuxK'></word>
