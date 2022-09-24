@@ -57,6 +57,27 @@
           ]
         }
       ]
-    }    
+    },
+    {
+      "title": "Cicero",
+      "publications": [
+       {
+          "path": "Catiline1and2",
+          "author": "Cicero",
+          "work": "Catilinarians",
+          "editors": "David Chamberlain, Anastasia Mellano",
+          "sections": [
+            {
+              "locus": "1-381",
+              "path": "Catiline1and2",
+              "xml": "cicCatTreeMacsV2.xml",
+              "link": "https://www.hypotactic.com",
+              "notes": "Adapted and completed by DC from Mellano's original",
+              "chunks": { "start": 1, "end": 381 }
+            }
+          ]
+        }
+      ]
+    }
   ]
 }
