@@ -116,8 +116,8 @@
 <word form="nocte" head="7" id="6" lemma="nox1" postag="n-s---fb-" relation="ADV"/>
 <word form="ēgerīs" head="14" id="7" lemma="ago1" postag="v2srsa---" relation="OBJ_CO"/>
 <word form="," head="14" id="8" lemma="comma1" postag="u--------" relation="AuxX"/>
-<word form="ubi" head="10" id="9" lemma="ubi1" postag="d--------" relation="OBJ_CO"/>
-<word form="fuerīs" head="14" id="10" lemma="sum1" postag="v2srsa---" relation="ADV"/>
+<word form="ubi" head="10" id="9" lemma="ubi1" postag="d--------" relation="ADV"/>
+<word form="fuerīs" head="14" id="10" lemma="sum1" postag="v2srsa---" relation="OBJ_CO"/>
 <word form="," head="14" id="11" lemma="comma1" postag="u--------" relation="AuxX"/>
 <word form="quōs" head="13" id="12" lemma="quis1" postag="p-p---ma-" relation="OBJ"/>
 <word form="convocāverīs" head="14" id="13" lemma="convoco1" postag="v2srsa---" relation="OBJ_CO"/>
