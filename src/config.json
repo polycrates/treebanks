@@ -78,6 +78,28 @@
           ]
         }
       ]
+    },
+    {
+      "title": "Plato",
+      "publications": [
+       {
+          "path": "Apology",
+          "author": "Plato",
+          "work": "Apology",
+          "editors": "David Chamberlain, Vanessa Gorman",
+          "sections": [
+            {
+              "locus": "1-481",
+              "path": "Apology",
+              "xml": "ApologyTree.xml",
+              "link": "https://www.hypotactic.com",
+              "notes": "Adapted and completed by DC from Gorman's original",
+              "chunks": { "start": 1, "end": 381 }
+            }
+          ]
+        }
+      ]
     }
+
   ]
 }
