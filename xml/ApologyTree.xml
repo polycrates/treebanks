@@ -54,8 +54,8 @@
     <word id='7' form='αὐτῶν' lemma='αὐτός' postag='p-p---mg-' relation='OBJ' head='6'></word>
     <word id='8' form='ὀλίγου' lemma='ὀλίγος' postag='a-s---ng-' relation='ADV' head='10'></word>
     <word id='9' form='ἐμαυτοῦ' lemma='ἐμαυτοῦ' postag='p-s---mg-' relation='OBJ' head='10'></word>
-    <word id='10' form='ἐπελαθόμην' lemma='ἐπιλανθάνομαι' postag='v1saim---' relation='PRED_CO' head='2'></word>
-    <word id='11' form=',' lemma='punc1' postag='u--------' relation='COORD' head='0'></word>
+    <word id='10' form='ἐπελαθόμην' lemma='ἐπιλανθάνομαι' postag='v1saim---' relation='PRED_CO' head='11'></word>
+    <word id='11' form=',' lemma='punc1' postag='u--------' relation='COORD' head='2'></word>
     <word id='12' form='οὕτω' lemma='οὕτως' postag='d--------' relation='ADV' head='14'></word>
     <word id='13' form='πιθανῶς' lemma='πιθανός' postag='d-------p' relation='ADV' head='14'></word>
     <word id='14' form='ἔλεγον' lemma='λέγω3' postag='v3piia---' relation='PRED_CO' head='11'></word>
