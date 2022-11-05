@@ -43,7 +43,7 @@
        {
           "path": "Metamorphoses1",
           "author": "Apuleius",
-          "work": "Metamorphoses",
+          "work": "Metamorphoses Book 1",
           "editors": "David Chamberlain",
           "sections": [
             {
@@ -59,12 +59,12 @@
         {
           "path": "Metamorphoses2",
           "author": "Apuleius",
-          "work": "Metamorphoses",
+          "work": "Metamorphoses Book 2",
           "editors": "David Chamberlain",
           "sections": [
             {
               "locus": "1-250",
-              "path": "Apuleius Met 1",
+              "path": "Apuleius Met 2",
               "xml": "apuleiusMet2tree.xml",
               "link": "https://www.hypotactic.com",
               "notes": "",
