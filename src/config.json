@@ -55,6 +55,22 @@
               "chunks": { "start": 2, "end": 234 }
             }
           ]
+        },
+        {
+          "path": "Metamorphoses2",
+          "author": "Apuleius",
+          "work": "Metamorphoses",
+          "editors": "David Chamberlain",
+          "sections": [
+            {
+              "locus": "1-250",
+              "path": "Apuleius Met 1",
+              "xml": "apuleiusMet2tree.xml",
+              "link": "https://www.hypotactic.com",
+              "notes": "",
+              "chunks": { "start": 1, "end": 250 }
+            }
+          ]
         }
       ]
     },
