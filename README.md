@@ -1,6 +1,8 @@
 # David Chamberlain's Greek and Latin Treebanks
 I'm currently focused on adapting verse treebanks so that they will play well with syllabic standoff annotation for metrical quantities etc. Work is underway on Francesco Mambrini's tragedy treebanks. I use the ones published at https://perseusdl.github.io/treebank_data/ rather than https://github.com/francescomambrini/Daphne, though I note that he and I are doing some overlapping work (e.g. division of crasis, addition of speakers). Data is in public/xml; trees can be browsed at https://polycrates.github.io/treebanks/; first attempt at combining the tree, metrical data and a glossary at https://hypotactic.com/sophocles/OT.html.
 
+I'm also using this repository to host other treebanks for embedding, such as Apuleius Met 1 and 2.
+
 # Main Changes from perseusdl treebanks:
 - separate all words in crasis; addition of attributes crasis="1" or crasis="2" to such words. Relation data for these forms currently requires much correction (e.g ἁγώ generally includes both subject and object of the verb, which is exactly why crasis needs to be separated).
 - add full="καὶ" etc. attribute to words whose form is modified by elision or crasis. Amongst other things this makes the treebanks much more useful as pedagogical tools.
