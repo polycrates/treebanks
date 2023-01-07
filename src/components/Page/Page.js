@@ -17,7 +17,6 @@ const Page = ({
     doi,
     report,
     github,
-    twitter,
   },
 }) => (
   <>
