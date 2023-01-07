@@ -32,7 +32,6 @@ const Page = ({
       doi={doi}
       report={report}
       github={github}
-      twitter={twitter}
     />
   </>
 );
