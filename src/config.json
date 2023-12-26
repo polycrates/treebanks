@@ -33,6 +33,27 @@
         }
       ]
     },
+        {
+      "title": "Aeschylus",
+      "publications": [
+       {
+          "path": "agamemnon",
+          "author": "Aeschylus",
+          "work": "Agamemnon",
+          "editors": "Francesco Mambrini; David Chamberlain",
+          "sections": [
+            {
+              "locus": "1-1673",
+              "path": "agamemnon",
+              "xml": "agamemnonTree.xml",
+              "link": "https://www.example.com",
+              "notes": "Mambrini's work updated with all crasis divided, extra attributes added to give full forms for words altered by crasis, elision etc; many corrections to lemmas, relations and postags.",
+              "chunks": { "start": 1, "end": 801 }
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Prose Treebanks",
       "text": "The template for this treebank publication is maintained by the Perseids Project."
