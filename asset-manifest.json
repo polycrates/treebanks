@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/treebanks/static/css/main.ba6ede0a.chunk.css",
-    "main.js": "/treebanks/static/js/main.ee82fc4e.chunk.js",
-    "main.js.map": "/treebanks/static/js/main.ee82fc4e.chunk.js.map",
+    "main.js": "/treebanks/static/js/main.572e1db3.chunk.js",
+    "main.js.map": "/treebanks/static/js/main.572e1db3.chunk.js.map",
     "runtime-main.js": "/treebanks/static/js/runtime-main.aad5d2a2.js",
     "runtime-main.js.map": "/treebanks/static/js/runtime-main.aad5d2a2.js.map",
     "static/css/2.7bcc4c65.chunk.css": "/treebanks/static/css/2.7bcc4c65.chunk.css",
@@ -55,6 +55,6 @@
     "static/css/2.7bcc4c65.chunk.css",
     "static/js/2.f66c6873.chunk.js",
     "static/css/main.ba6ede0a.chunk.css",
-    "static/js/main.ee82fc4e.chunk.js"
+    "static/js/main.572e1db3.chunk.js"
   ]
 }
