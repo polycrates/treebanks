@@ -27,7 +27,7 @@
               "xml": "sophocles_OT_crasisEtc.xml",
               "link": "https://www.example.com",
               "notes": "Mambrini's work updated with all crasis divided, extra attributes added to give full forms for words altered by crasis, elision etc; minor corrections to relations and postags.",
-              "chunks": { "start": 1, "end": 932 }
+              "chunks": { "start": 1, "end": 931 }
             }
           ]
         }
