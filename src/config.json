@@ -54,6 +54,27 @@
         }
       ]
     },
+            {
+      "title": "Aristophanes",
+      "publications": [
+       {
+          "path": "frogs",
+          "author": "Aristophanes",
+          "work": "Frogs",
+          "editors": "David Chamberlain",
+          "sections": [
+            {
+              "locus": "1-1533",
+              "path": "frogs",
+              "xml": "glauxfrogs.xml",
+              "link": "https://www.example.com",
+              "notes": "A heavily edited of Alex Keersmacker's auto-tagged tree for Aristophanes Frogs (glaux project)",
+              "chunks": { "start": 1, "end": 1179 }
+            }
+          ]
+        }
+      ]
+    },
     {
       "title": "Prose Treebanks",
       "text": "The template for this treebank publication is maintained by the Perseids Project."
