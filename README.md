@@ -3,6 +3,8 @@ I'm currently focused on adapting verse treebanks so that they will play well wi
 
 I'm also using this repository to host other treebanks for embedding, such as Apuleius Met 1 and 2.
 
+February 2025: added Aristophanes' Frogs. I started with the auto-tagged version at the Glaux project (https://github.com/alekkeersmaekers/glaux); so far I've made one full readthrough and edit. I also normalized to precomposed characters. The AI auto-tagger did a much better job than I imagined it could, but it has still taken me a full week of work to come up with something I think is useful and trustworthy. I'll be making further tweaks to this before I teach the text in April. I also considered using Celano's auto-tagged version from OGA (https://github.com/OperaGraecaAdnotata/OGA: see the conll treebanks for maximum convenience), but the Glaux version seemed a little more accurate, with a better treatment of crasis, and (most importantly) speaker information preserved in the treebank.
+
 # Main Changes from perseusdl treebanks:
 - separate all words in crasis; addition of attributes crasis="1" or crasis="2" to such words. Relation data for these forms currently requires much correction (e.g ἁγώ generally includes both subject and object of the verb, which is exactly why crasis needs to be separated).
 - add full="καὶ" etc. attribute to words whose form is modified by elision or crasis. Amongst other things this makes the treebanks much more useful as pedagogical tools.
