@@ -58,7 +58,7 @@
     <word features='elision' form='γ’' full='γε' head='1' id='2' lemma='γε' postag='g--------' relation='AuxZ' speaker='Διόνυσος' subdoc='5'></word>
     <word form='“' full='“' head='0' id='3' lemma='“' postag='u--------' relation='AuxG' speaker='Διόνυσος' subdoc='5'></word>
     <word form='ὡς' full='ὡς' head='5' id='4' lemma='ὡς' postag='c--------' relation='AuxZ' speaker='Διόνυσος' subdoc='5' gloss=''></word>
-    <word form='θλίβομαι' full='θλίβομαι' head='1' id='5' lemma='θλίβω' postag='v1spim---' relation='ADV' speaker='Διόνυσος' subdoc='5'></word>
+    <word form='θλίβομαι' full='θλίβομαι' head='1' id='5' lemma='θλίβω' postag='v1spip---' relation='ADV' speaker='Διόνυσος' subdoc='5'></word>
     <word form='”' full='”' head='0' id='6' lemma='”' postag='u--------' relation='AuxG' speaker='Διόνυσος' subdoc='5'></word>
     <word form='.' full='.' head='0' id='7' lemma='.' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='5'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='8' insertion_id='0008e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='5'></word>
@@ -303,7 +303,7 @@
     <word features='prodelision' form='’γὼ' full='ἐγὼ' head='5' id='6' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Ξανθίας' subdoc='28'></word>
     <word form='καὶ' full='καὶ' head='8' id='7' lemma='καί' postag='d--------' relation='ADV' speaker='Ξανθίας' subdoc='28'></word>
     <word form='φέρω' full='φέρω' head='0' id='8' lemma='φέρω' postag='v1spia---' relation='PRED' speaker='Ξανθίας' subdoc='28'></word>
-    <word form=';' full=';' head='0' id='9' lemma=';' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='27'></word>
+    <word form=';' full=';' head='0' id='9' lemma=';' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='28'></word>
   </sentence>
   <sentence id='26'>
     <word form='μὰ' full='μὰ' head='6' id='1' lemma='μά' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='28'></word>
@@ -555,7 +555,7 @@
   <sentence id='55'>
     <word form='ἐπεβάτευον' full='ἐπεβάτευον' head='0' id='1' lemma='ἐπιβατεύω' postag='v1siia---' relation='PRED' speaker='Διόνυσος' subdoc='48'></word>
     <word form='Κλεισθένει' full='Κλεισθένει' head='1' id='2' lemma='Κλεισθένης' postag='n-s---md-' relation='OBJ' speaker='Διόνυσος' subdoc='48'></word>
-    <word form='—' full='—' head='0' id='3' lemma='—' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='48'></word>
+    <word form='–' full='–' head='0' id='3' lemma='–' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='48'></word>
   </sentence>
   <sentence id='56'>
     <word features='crasis1' form='κ' full='καὶ' head='2' id='1' lemma='καί' postag='c--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='49'></word>
@@ -679,8 +679,8 @@
     <word form='μὴ' full='μὴ' head='2' id='1' lemma='μή' postag='d--------' relation='AuxZ' speaker='Διόνυσος' subdoc='58'></word>
     <word form='σκῶπτέ' full='σκῶπτέ' head='0' id='2' lemma='σκώπτω' postag='v2spma---' relation='PRED' speaker='Διόνυσος' subdoc='58'></word>
     <word features='elision' form='μ’' full='με' head='2' id='3' lemma='ἐγώ' postag='p-s---ma-' relation='OBJ' speaker='Διόνυσος' subdoc='58'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='5' id='4' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Διόνυσος' subdoc='58' gloss=''></word>
-    <word features='crasis2, elision' form='δέλφ’' full='ἀδέλφε' head='2' id='5' lemma='ἀδελφός' postag='n-s---mv-' relation='ExD' speaker='Διόνυσος' subdoc='58'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='5' id='4' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Διόνυσος' subdoc='58' gloss=''></word>
+    <word features='elision' form='δέλφ’' full='ἀδέλφε' head='2' id='5' lemma='ἀδελφός' postag='n-s---mv-' relation='ExD' speaker='Διόνυσος' subdoc='58'></word>
     <word form='·' full='·' head='0' id='6' lemma='·' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='58'></word>
   </sentence>
   <sentence id='73'>
@@ -702,8 +702,8 @@
   <sentence id='75'>
     <word form='ποῖός' full='ποῖός' head='6' id='1' lemma='ποῖος' postag='p-s---mn-' relation='SBJ' speaker='Ἡρακλῆς' subdoc='60'></word>
     <word form='τις' full='τις' head='1' id='2' lemma='τις' postag='p-s---mn-' relation='ATR' speaker='Ἡρακλῆς' subdoc='60'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='4' id='3' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='60' gloss=''></word>
-    <word features='crasis2' form='δελφίδιον' full='ἀδελφίδιον' head='6' id='4' lemma='ἀδελφίδιον' postag='n-s---nv-' relation='ExD' speaker='Ἡρακλῆς' subdoc='60'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='4' id='3' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='60' gloss=''></word>
+    <word form='δελφίδιον' full='ἀδελφίδιον' head='6' id='4' lemma='ἀδελφίδιον' postag='n-s---nv-' relation='ExD' speaker='Ἡρακλῆς' subdoc='60'></word>
     <word form=';' full=';' head='0' id='5' lemma=';' postag='u--------' relation='AuxK' speaker='Ἡρακλῆς' subdoc='60'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='6' insertion_id='0006e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='60'></word>
   </sentence>
@@ -897,9 +897,10 @@
   </sentence>
   <sentence id='96'>
     <word features='elision' form='εἶτ’' full='εἶτα' head='6' id='1' lemma='εἶτα' postag='d--------' relation='ADV' speaker='Ἡρακλῆς' subdoc='76'></word>
-    <word form='οὐχὶ' full='οὐχὶ' head='6' id='2' lemma='οὐ' postag='d--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='76'></word>
-    <word form='Σοφοκλέα' full='Σοφοκλέα' head='7' id='3' lemma='Σοφοκλῆς' postag='n-s---ma-' relation='SBJ' speaker='Ἡρακλῆς' subdoc='76'></word>
-    <word form='πρότερον' full='πρότερον' head='7' id='4' lemma='πρότερος' postag='d-------c' relation='ADV' speaker='Ἡρακλῆς' subdoc='76'></word>
+    <word form='οὐ' full='οὐ' head='6' id='2' lemma='οὐ' postag='d--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='76'></word>
+    <word form='Σοφοκλέα' full='Σοφοκλέα' head='7' id='3' lemma='Σοφοκλῆς' postag='n-s---ma-' relation='OBJ' speaker='Ἡρακλῆς' subdoc='76'></word>
+    <word form='πρότερον' full='πρότερον' head='4a' id='4' lemma='πρότερος' postag='a-s---mac' relation='PNOM' speaker='Ἡρακλῆς' subdoc='76'></word>
+    <word form='ὄντ’' full='ὄντα' head='3' id='4a' lemma='εἰμί' postag='v-sppama-' relation='ADV' speaker='Ἡρακλῆς' subdoc='76'></word>
     <word form='Εὐριπίδου' full='Εὐριπίδου' head='4' id='5' lemma='Εὐριπίδης' postag='n-s---mg-' relation='ADV' speaker='Ἡρακλῆς' subdoc='76'></word>
     <word form='μέλλεις' full='μέλλεις' head='0' id='6' lemma='μέλλω' postag='v2spia---' relation='PRED' speaker='Ἡρακλῆς' subdoc='77'></word>
     <word form='ἀναγαγεῖν' full='ἀναγαγεῖν' head='6' id='7' lemma='ἀνάγω' postag='v--ana---' relation='OBJ' speaker='Ἡρακλῆς' subdoc='77'></word>
@@ -1235,7 +1236,8 @@
     <word features='elision' form='τόθ’' full='τότε' head='26' id='27' lemma='τότε' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='111'></word>
     <word form=',' full=',' head='0' id='28' lemma=',' postag='u--------' relation='AuxX' speaker='Διόνυσος' subdoc='111'></word>
     <word features='elision' form='ἡνίκ’' full='ἡνίκα' head='26' id='29' lemma='ἡνίκα' postag='c--------' relation='AuxC' speaker='Διόνυσος' subdoc='111'></word>
-    <word form='ἐπὶ' full='ἐπὶ' head='53' id='30' lemma='ἐπί' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='111'></word>
+    <word form='ἦλθες' full='ἦλθες' head='29' id='29a' lemma='ἔρχομαι' postag='v2saia---' relation='ADV' speaker='Διόνυσος' subdoc='111'></word>    
+    <word form='ἐπὶ' full='ἐπὶ' head='29a' id='30' lemma='ἐπί' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='111'></word>
     <word form='τὸν' full='τὸν' head='32' id='31' lemma='ὁ' postag='l-s---ma-' relation='ATR' speaker='Διόνυσος' subdoc='111'></word>
     <word form='Κέρβερον' full='Κέρβερον' head='30' id='32' lemma='Κέρβερος' postag='n-s---ma-' relation='OBJ' speaker='Διόνυσος' subdoc='111'></word>
     <word form=',' full=',' head='0' id='33' lemma=',' postag='u--------' relation='AuxX' speaker='Διόνυσος' subdoc='111'></word>
@@ -1274,7 +1276,7 @@
   <sentence id='123'>
     <word form='ὦ' full='ὦ' head='2' id='1' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='116'></word>
     <word form='σχέτλιε' full='σχέτλιε' head='4' id='2' lemma='σχέτλιος' postag='a-s---mv-' relation='ExD' speaker='Ἡρακλῆς' subdoc='116'></word>
-    <word form=',' full=',' head='0' id='3' lemma=',' postag='u--------' relation='AuxX' speaker='Ἡρακλῆς' subdoc='114'></word>
+    <word form=',' full=',' head='0' id='3' lemma=',' postag='u--------' relation='AuxX' speaker='Ἡρακλῆς' subdoc='116'></word>
     <word form='τολμήσεις' full='τολμήσεις' head='0' id='4' lemma='τολμάω' postag='v2sfia---' relation='PRED' speaker='Ἡρακλῆς' subdoc='116'></word>
     <word form='γὰρ' full='γὰρ' head='4' id='5' lemma='γάρ' postag='g--------' relation='AuxY' speaker='Ἡρακλῆς' subdoc='116'></word>
     <word form='ἰέναι' full='ἰέναι' head='4' id='6' lemma='ἔρχομαι' postag='v--pna---' relation='OBJ' speaker='Ἡρακλῆς' subdoc='116'></word>
@@ -1337,7 +1339,7 @@
     <word form='ἀπὸ' full='ἀπὸ' head='10' id='5' lemma='ἀπό' postag='r--------' relation='AuxP' speaker='Ἡρακλῆς' subdoc='121'></word>
     <word form='κάλω' full='κάλω' head='7' id='6' lemma='κᾶλον' postag='n-s---ng-' relation='ADV_CO' speaker='Ἡρακλῆς' subdoc='121'></word>
     <word form='καὶ' full='καὶ' head='5' id='7' lemma='καί' postag='c--------' relation='COORD' speaker='Ἡρακλῆς' subdoc='121'></word>
-    <word form='θρανίου' full='θρανίου' head='7' id='8' lemma='θρανίον' postag='n-s---mg-' relation='ADV_CO' speaker='Ἡρακλῆς' subdoc='121'></word>
+    <word form='θρανίου' full='θρανίου' head='7' id='8' lemma='θρανίον' postag='n-s---ng-' relation='ADV_CO' speaker='Ἡρακλῆς' subdoc='121'></word>
     <word form=',' full=',' head='0' id='9' lemma=',' postag='u--------' relation='AuxX' speaker='Ἡρακλῆς' subdoc='121'></word>
     <word form='κρεμάσαντι' full='κρεμάσαντι' head='4' id='10' lemma='κρεμάννυμι' postag='v-sapamd-' relation='ADV' speaker='Ἡρακλῆς' subdoc='122'></word>
     <word form='σαυτόν' full='σαυτόν' head='10' id='11' lemma='σεαυτοῦ' postag='p-s---ma-' relation='OBJ' speaker='Ἡρακλῆς' subdoc='122'></word>
@@ -1764,8 +1766,8 @@
     <word form='καὶ' full='καὶ' head='2' id='1' lemma='καί' postag='c--------' relation='AuxY' speaker='Ἡρακλῆς' subdoc='164'></word>
     <word form='χαῖρε' full='χαῖρε' head='0' id='2' lemma='χαίρω' postag='v2spma---' relation='PRED' speaker='Ἡρακλῆς' subdoc='164'></word>
     <word features='elision' form='πόλλ’' full='πολλὰ' head='2' id='3' lemma='πολύς' postag='a-p---na-' relation='ADV' speaker='Ἡρακλῆς' subdoc='164'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='5' id='4' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='164'></word>
-    <word features='crasis2' form='δελφέ' full='ἀδελφέ' head='2' id='5' lemma='ἀδελφός' postag='n-s---mv-' relation='ExD' speaker='Ἡρακλῆς' subdoc='164'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='5' id='4' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Ἡρακλῆς' subdoc='164'></word>
+    <word form='δελφέ' full='ἀδελφέ' head='2' id='5' lemma='ἀδελφός' postag='n-s---mv-' relation='ExD' speaker='Ἡρακλῆς' subdoc='164'></word>
     <word form='.' full='.' head='0' id='6' lemma='.' postag='u--------' relation='AuxK' speaker='Ἡρακλῆς' subdoc='164'></word>
   </sentence>
   <sentence id='169'>
@@ -1789,7 +1791,7 @@
   <sentence id='171'>
     <word form='πρὶν' full='πρὶν' head='5' id='1' lemma='πρίν' postag='c--------' relation='AuxC' speaker='Ξανθίας' subdoc='166'></word>
     <word form='καὶ' full='καὶ' head='3' id='2' lemma='καί' postag='c--------' relation='AuxZ' speaker='Ξανθίας' subdoc='166'></word>
-    <word form='καταθέσθαι' full='κατα��έσθαι' head='1' id='3' lemma='κατατίθημι' postag='v--anm---' relation='ADV' speaker='Ξανθίας' subdoc='166'></word>
+    <word form='καταθέσθαι' full='καταθέσθαι' head='1' id='3' lemma='κατατίθημι' postag='v--anm---' relation='ADV' speaker='Ξανθίας' subdoc='166'></word>
     <word form=';' full=';' head='5' id='4' lemma=';' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='166'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='5' insertion_id='0005e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='166'></word>
   </sentence>
@@ -2354,7 +2356,7 @@
     <word form='κραιπαλόκωμος' full='κραιπαλόκωμος' head='37' id='28' lemma='κραιπαλόκωμος' postag='a-s---mn-' relation='ATR' speaker='Βάτραχοι' subdoc='218'></word>
     <word form='τοῖς' full='τοῖς' head='31' id='29' lemma='ὁ' postag='l-p---md-' relation='ATR' speaker='Βάτραχοι' subdoc='219'></word>
     <word form='ἱεροῖσι' full='ἱεροῖσι' head='31' id='30' lemma='ἱερός' postag='a-p---md-' relation='ATR' speaker='Βάτραχοι' subdoc='219'></word>
-    <word form='Χύτροισι' full='Χύτροισι' head='32' id='31' lemma='χύτρος' postag='n-p---md-' relation='OBJ' speaker='Βάτραχοι' subdoc='219'></word>
+    <word form='Χύτροισιν' full='Χύτροισιν' head='32' id='31' lemma='χύτρος' postag='n-p---md-' relation='OBJ' speaker='Βάτραχοι' subdoc='219'></word>
     <word form='χωρεῖ' full='χωρεῖ' head='26' id='32' lemma='χωρέω' postag='v3spia---' relation='ADV' speaker='Βάτραχοι' subdoc='220'></word>
     <word features='elision' form='κατ’' full='κατὰ' head='32' id='33' lemma='κατά' postag='r--------' relation='AuxP' speaker='Βάτραχοι' subdoc='220'></word>
     <word form='ἐμὸν' full='ἐμὸν' head='35' id='34' lemma='ἐμός' postag='a-s---na-' relation='ATR' speaker='Βάτραχοι' subdoc='220'></word>
@@ -2502,14 +2504,14 @@
     <word form='μᾶλλον' full='μᾶλλον' head='4' id='1' lemma='μάλα' postag='d-------c' relation='ADV' speaker='Βάτραχοι' subdoc='241'></word>
     <word form='μὲν' full='μὲν' head='4' id='2' lemma='μέν' postag='g--------' relation='AuxY' speaker='Βάτραχοι' subdoc='241'></word>
     <word form='οὖν' full='οὖν' head='4' id='3' lemma='οὖν' postag='g--------' relation='AuxY' speaker='Βάτραχοι' subdoc='241'></word>
-    <word features='elision' form='φθεγξόμεσθ’' full='φθεγξόμεσθα' head='0' id='4' lemma='φθέγγομαι' postag='v1pfim---' relation='PRED_CO' speaker='Βάτραχοι' subdoc='242'></word>
-    <word form=',' full=',' head='0' id='5' lemma=',' postag='u--------' relation='AuxX' speaker='Βάτραχοι' subdoc='242'></word>
-    <word form='εἰ' full='εἰ' head='4' id='6' lemma='εἰ' postag='c--------' relation='AuxC' speaker='Βάτραχοι' subdoc='242'></word>
-    <word form='δή' full='δή' head='6' id='7' lemma='δή' postag='g--------' relation='AuxY' speaker='Βάτραχοι' subdoc='242'></word>
-    <word features='elision' form='ποτ’' full='ποτε' head='23' id='8' lemma='ποτέ' postag='d--------' relation='ADV' speaker='Βάτραχοι' subdoc='242'></word>
-    <word form='εὐηλίοις' full='εὐηλίοις' head='11' id='9' lemma='εὐήλιος' postag='a-p---fd-' relation='ATR' speaker='Βάτραχοι' subdoc='242'></word>
-    <word form='ἐν' full='ἐν' head='12' id='10' lemma='ἐν' postag='r--------' relation='AuxP' speaker='Βάτραχοι' subdoc='243'></word>
-    <word form='ἁμέραισιν' full='ἁμέραισιν' head='10' id='11' lemma='ἡμέρα' postag='n-p---fd-' relation='ADV' speaker='Βάτραχοι' subdoc='243'></word>
+    <word features='elision' form='φθεγξόμεσθ’' full='φθεγξόμεσθα' head='0' id='4' lemma='φθέγγομαι' postag='v1pfim---' relation='PRED_CO' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word form=',' full=',' head='0' id='5' lemma=',' postag='u--------' relation='AuxX' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word form='εἰ' full='εἰ' head='4' id='6' lemma='εἰ' postag='c--------' relation='AuxC' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word form='δή' full='δή' head='6' id='7' lemma='δή' postag='g--------' relation='AuxY' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word features='elision' form='ποτ’' full='ποτε' head='23' id='8' lemma='ποτέ' postag='d--------' relation='ADV' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word form='εὐηλίοις' full='εὐηλίοις' head='11' id='9' lemma='εὐήλιος' postag='a-p---fd-' relation='ATR' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word form='ἐν' full='ἐν' head='12' id='10' lemma='ἐν' postag='r--------' relation='AuxP' speaker='Βάτραχοι' subdoc='242-3'></word>
+    <word form='ἁμέραισιν' full='ἁμέραισιν' head='10' id='11' lemma='ἡμέρα' postag='n-p---fd-' relation='ADV' speaker='Βάτραχοι' subdoc='242-3'></word>
     <word form='ἡλάμεσθα' full='ἡλάμεσθα' head='23' id='12' lemma='ἅλλομαι' postag='v1paim---' relation='ADV_CO' speaker='Βάτραχοι' subdoc='244'></word>
     <word form='διὰ' full='διὰ' head='12' id='13' lemma='διά' postag='r--------' relation='AuxP' speaker='Βάτραχοι' subdoc='244'></word>
     <word form='κυπείρου' full='κυπείρου' head='15' id='14' lemma='κύπειρον' postag='n-s---mg-' relation='ADV_CO' speaker='Βάτραχοι' subdoc='244'></word>
@@ -2588,7 +2590,7 @@
     <word form='ἀλλὰ' full='ἀλλὰ' head='3' id='1' lemma='ἀλλά' postag='c--------' relation='AuxY' speaker='Βάτραχοι' subdoc='258'></word>
     <word form='μὴν' full='μὴν' head='3' id='2' lemma='μήν' postag='g--------' relation='AuxY' speaker='Βάτραχοι' subdoc='258'></word>
     <word form='κεκραξόμεσθά' full='κεκραξόμεσθά' head='0' id='3' lemma='κράζω' postag='v1ptim---' relation='PRED' speaker='Βάτραχοι' subdoc='258'></word>
-    <word features='elision' form='γ’' full='γε' head='3' id='4' lemma='γε' postag='g--------' relation='AuxZ' speaker='Βάτραχοι' subdoc='258'></word>
+    <word features='elision' form='γ’' full='γε' head='3' id='4' lemma='γε' postag='g--------' relation='AuxZ' speaker='Βάτραχοι' subdoc='259'></word>
     <word form='ὁπόσον' full='ὁπόσον' head='10' id='5' lemma='ὁπόσος' postag='p-s---na-' relation='ADV' speaker='Βάτραχοι' subdoc='259'></word>
     <word form='ἡ' full='ἡ' head='7' id='6' lemma='ὁ' postag='l-s---fn-' relation='ATR' speaker='Βάτραχοι' subdoc='259'></word>
     <word form='φάρυξ' full='φάρυξ' head='10' id='7' lemma='φάρυγξ' postag='n-s---fn-' relation='SBJ' speaker='Βάτραχοι' subdoc='259'></word>
@@ -3027,8 +3029,8 @@
   </sentence>
   <sentence id='303'>
     <word features='elision' form='ἀπολούμεθ’' full='ἀπολούμεθα' head='0' id='1' lemma='ἀπόλλυμι' postag='v1pfim---' relation='PRED' speaker='Ξανθίας' subdoc='298'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='4' id='2' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Ξανθίας' subdoc='298'></word>
-    <word features='crasis2' form='ναξ' full='ἄναξ' head='4' id='3' lemma='ἄναξ' postag='n-s---mv-' relation='ATR' speaker='Ξανθίας' subdoc='298'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='4' id='2' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Ξανθίας' subdoc='298'></word>
+    <word form='ναξ' full='ἄναξ' head='4' id='3' lemma='ἄναξ' postag='n-s---mv-' relation='ATR' speaker='Ξανθίας' subdoc='298'></word>
     <word form='Ἡράκλεις' full='Ἡράκλεις' head='1' id='4' lemma='Ἡρακλῆς' postag='n-s---mv-' relation='ExD' speaker='Ξανθίας' subdoc='298'></word>
     <word form='.' full='.' head='0' id='5' lemma='.' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='298'></word>
   </sentence>
@@ -3114,7 +3116,7 @@
   </sentence>
   <sentence id='312'>
     <word features='crasis1' form='ἥ' full='ἡ' head='2' id='1' lemma='ὁ' postag='l-s---fn-' relation='ATR' speaker='Ξανθίας' subdoc='305'></word>
-    <word features='crasis2' form='μπουσα' full='Ἔμπουσα' head='5' id='2' lemma='Ἔμπουσα' postag='v-sppafn-' relation='ADV' speaker='Ξανθίας' subdoc='305'></word>
+    <word features='crasis2' form='μπουσα' full='Ἔμπουσα' head='5' id='2' lemma='Ἔμπουσα' postag='n-s---fn-' relation='SUBJ' speaker='Ξανθίας' subdoc='305'></word>
     <word form='φρούδη' full='φρούδη' head='5' id='3' lemma='φροῦδος' postag='a-s---fn-' relation='PNOM' speaker='Ξανθίας' subdoc='305'></word>
     <word form='.' full='.' head='0' id='4' lemma='.' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='305'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='5' insertion_id='0004e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='305'></word>
@@ -3395,7 +3397,7 @@
     <word form='ἔγειρε' full='ἔγειρε' head='0' id='2' lemma='ἐγείρω' postag='v2spma---' relation='PRED' speaker='Χορός' subdoc='340'></word>
     <word form='φλογέας' full='φλογέας' head='4' id='3' lemma='φλόγεος' postag='a-p---fa-' relation='ATR' speaker='Χορός' subdoc='340'></word>
     <word form='λαμπάδας' full='λαμπάδας' head='2' id='4' lemma='λαμπάς' postag='n-p---fa-' relation='OBJ' speaker='Χορός' subdoc='340'></word>
-    <word form='·' full='·' head='0' id='5' lemma='·' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='343'></word>
+    <word form='·' full='·' head='0' id='5' lemma='·' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='340'></word>
   </sentence>
   <sentence id='342'>
     <word form='ἐν' full='ἐν' head='5' id='1' lemma='ἐν' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='340'></word>
@@ -3714,7 +3716,7 @@
     <word features='elision' form='μ’' full='με' head='19' id='14' lemma='ἐγώ' postag='p-s---ma-' relation='SBJ' speaker='Χορός' subdoc='389'></word>
     <word form='ἀσφαλῶς' full='ἀσφαλῶς' head='19' id='15' lemma='ἀσφαλής' postag='d--------' relation='ADV' speaker='Χορός' subdoc='389'></word>
     <word form='πανήμερον' full='πανήμερον' head='19' id='16' lemma='πανήμερος' postag='a-s---na-' relation='ADV' speaker='Χορός' subdoc='389'></word>
-    <word form='παῖσαί' full='παῖσαί' head='19' id='17' lemma='παίω' postag='v--ana---' relation='OBJ_CO' speaker='Χορός' subdoc='390'></word>
+    <word form='παῖσαί' full='παῖσαί' head='19' id='17' lemma='παίζω' postag='v--ana---' relation='OBJ_CO' speaker='Χορός' subdoc='390'></word>
     <word form='τε' full='τε' head='19' id='18' lemma='τε' postag='c--------' relation='AuxY' speaker='Χορός' subdoc='390'></word>
     <word form='καὶ' full='καὶ' head='13' id='19' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='390'></word>
     <word form='χορεῦσαι' full='χορεῦσαι' head='19' id='20' lemma='χορεύω' postag='v--ana---' relation='OBJ_CO' speaker='Χορός' subdoc='390'></word>
@@ -3726,7 +3728,7 @@
     <word form='μὲν' full='μὲν' head='9' id='3' lemma='μέν' postag='g--------' relation='AuxY' speaker='Χορός' subdoc='391'></word>
     <word form='γέλοιά' full='γέλοιά' head='9' id='4' lemma='γέλοιος' postag='a-p---nn-' relation='PNOM' speaker='Χορός' subdoc='391'></word>
     <word features='elision' form='μ’' full='με' head='12' id='5' lemma='ἐγώ' postag='p-s---ma-' relation='SBJ' speaker='Χορός' subdoc='391'></word>
-    <word form='εἰπεῖν' full='εἰπεῖν' head='12' id='6' lemma='λέγω' postag='v--ana---' relation='OBJ_CO' speaker='Χορός' subdoc='392'></word>
+    <word form='εἰπεῖν' full='εἰπεῖν' head='12' id='6' lemma='λέγω' postag='v--ana---' relation='OBJ_CO' speaker='Χορός' subdoc='391-92'></word>
     <word form=',' full=',' head='0' id='7' lemma=',' postag='u--------' relation='AuxX' speaker='Χορός' subdoc='392'></word>
     <word form='πολλὰ' full='πολλὰ' head='10' id='8' lemma='πολύς' postag='a-p---na-' relation='ADV' speaker='Χορός' subdoc='392'></word>
     <word form='δὲ' full='δὲ' head='6' id='9' lemma='δέ' postag='c--------' relation='AuxY' speaker='Χορός' subdoc='392'></word>
@@ -3737,18 +3739,18 @@
     <word form='σῆς' full='σῆς' head='15' id='14' lemma='σός' postag='a-s---fg-' relation='ATR' speaker='Χορός' subdoc='393'></word>
     <word form='ἑορτῆς' full='ἑορτῆς' head='16' id='15' lemma='ἑορτή' postag='n-s---fg-' relation='ADV' speaker='Χορός' subdoc='393'></word>
     <word form='ἀξίως' full='ἀξίως' head='18' id='16' lemma='ἄξιος' postag='d--------' relation='ADV' speaker='Χορός' subdoc='393'></word>
-    <word form='παίσαντα' full='παίσαντα' head='18' id='17' lemma='παίω' postag='v-sapama-' relation='ADV_CO' speaker='Χορός' subdoc='394'></word>
+    <word form='παίσαντα' full='παίσαντα' head='18' id='17' lemma='παίζω' postag='v-sapama-' relation='ADV_CO' speaker='Χορός' subdoc='394'></word>
     <word form='καὶ' full='καὶ' head='21' id='18' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='394'></word>
     <word form='σκώψαντα' full='σκώψαντα' head='18' id='19' lemma='σκώπτω' postag='v-sapama-' relation='ADV_CO' speaker='Χορός' subdoc='394'></word>
-    <word form='νικήσαντα' full='νικήσαντα' head='21' id='20' lemma='νικάω' postag='v-sapama-' relation='ADV' speaker='Χορός' subdoc='395'></word>
+    <word form='νικήσαντα' full='νικήσαντα' head='21' id='20' lemma='νικάω' postag='v-sapama-' relation='ADV' speaker='Χορός' subdoc='394-95'></word>
     <word form='ταινιοῦσθαι' full='ταινιοῦσθαι' head='12' id='21' lemma='ταινιόω' postag='v--pnm---' relation='OBJ_CO' speaker='Χορός' subdoc='395'></word>
     <word form='.' full='.' head='0' id='22' lemma='.' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='395'></word>
     <word artificial='elliptic' form='σῷζε' full='E' head='0' id='23' insertion_id='0023e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='395'></word>
   </sentence>
   <sentence id='355'>
     <word features='elision' form='ἄγ’' full='ἄγε' head='2' id='1' lemma='ἄγε' postag='g--------' relation='AuxY' speaker='Χορός' subdoc='396'></word>
-    <word form='εἶα' full='εἶα' head='4' id='2' lemma='εἶα' postag='e--------' relation='PRED_CO' speaker='Χορός' subdoc='396' gloss=''></word>
-    <word form='νῦν' full='νῦν' head='2' id='3' lemma='νῦν' postag='d--------' relation='ADV' speaker='Χορός' subdoc='397'></word>
+    <word form='εἶά' full='εἶά' head='4' id='2' lemma='εἶα' postag='e--------' relation='PRED_CO' speaker='Χορός' subdoc='396' gloss=''></word>
+    <word form='νυν' full='νυν' head='2' id='3' lemma='νῦν' postag='d--------' relation='AuxY' speaker='Χορός' subdoc='396'></word>
     <word form='καὶ' full='καὶ' head='0' id='4' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='397'></word>
     <word form='τὸν' full='τὸν' head='7' id='5' lemma='ὁ' postag='l-s---ma-' relation='ATR' speaker='Χορός' subdoc='397'></word>
     <word form='ὡραῖον' full='ὡραῖον' head='7' id='6' lemma='ὡραῖος' postag='a-s---ma-' relation='ATR' speaker='Χορός' subdoc='397'></word>
@@ -3843,7 +3845,7 @@
     <word form='εὐπροσώπου' full='εὐπροσώπου' head='12' id='11' lemma='εὐπρόσωπος' postag='a-s---fg-' relation='ATR' speaker='Χορός' subdoc='412'></word>
     <word form='συμπαιστρίας' full='συμπαιστρίας' head='9' id='12' lemma='συμπαιστής' postag='n-s---fg-' relation='ATR' speaker='Χορός' subdoc='413'></word>
     <word form='χιτωνίου' full='χιτωνίου' head='14' id='13' lemma='χιτώνιον' postag='n-s---ng-' relation='SBJ' speaker='Χορός' subdoc='414'></word>
-    <word form='παραρραγέντος' full='παραρραγέντος' head='16' id='14' lemma='παραρρήγνυμι' postag='v-sappng-' relation='ATR' speaker='Χορός' subdoc='415'></word>
+    <word form='παραρραγέντος' full='παραρραγέντος' head='16' id='14' lemma='παραρρήγνυμι' postag='v-sappng-' relation='ATR' speaker='Χορός' subdoc='414-15'></word>
     <word form='τιτθίον' full='τιτθίον' head='16' id='15' lemma='τιτθίον' postag='n-s---na-' relation='SBJ' speaker='Χορός' subdoc='415'></word>
     <word form='προκύψαν' full='προκύψαν' head='8' id='16' lemma='προκύπτω' postag='v-sapana-' relation='OBJ' speaker='Χορός' subdoc='415'></word>
     <word form='.' full='.' head='0' id='17' lemma='.' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='415'></word>
@@ -3860,7 +3862,7 @@
     <word features='elision' form='δ’' full='δὲ' head='7' id='2' lemma='δέ' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='417'></word>
     <word form='ἀεί' full='ἀεί' head='7' id='3' lemma='ἀεί' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='417'></word>
     <word form='πως' full='πως' head='3' id='4' lemma='πως' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='417'></word>
-    <word form='φιλακόλουθός' full='φιλακόλουθός' head='6' id='5' lemma='φιλακόλουθος' postag='a-s---fn-' relation='PNOM' speaker='Διόνυσος' subdoc='418'></word>
+    <word form='φιλακόλουθός' full='φιλακόλουθός' head='6' id='5' lemma='φιλακόλουθος' postag='a-s---fn-' relation='PNOM' speaker='Διόνυσος' subdoc='417-18'></word>
     <word form='εἰμι' full='εἰμι' head='7' id='6' lemma='εἰμί' postag='v1spia---' relation='PRED_CO' speaker='Διόνυσος' subdoc='418'></word>
     <word form='καὶ' full='καὶ' head='0' id='7' lemma='καί' postag='c--------' relation='COORD' speaker='Διόνυσος' subdoc='418'></word>
     <word features='elision' form='μετ’' full='μετὰ' head='10' id='8' lemma='μετά' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='418'></word>
@@ -3991,6 +3993,7 @@
     <word features='elision' form='ἴσθ’' full='ἴσθι' head='11' id='12' lemma='οἶδα' postag='v2srma---' relation='PRED_CO' speaker='Χορός' subdoc='440'></word>
     <word features='elision' form='ἐπ’' full='ἐπὶ' head='16' id='13' lemma='ἐπί' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='440'></word>
     <word form='αὐτὴν' full='αὐτὴν' head='15' id='14' lemma='αὐτός' postag='p-s---fa-' relation='ATR' speaker='Χορός' subdoc='440'></word>
+    <word form='τὴν' full='τὴν' head='15' id='14a' lemma='ὁ' postag='l-s---fa-' relation='ATR' speaker='Χορός' subdoc='440'></word>
     <word form='θύραν' full='θύραν' head='13' id='15' lemma='θύρα' postag='n-s---fa-' relation='OBJ' speaker='Χορός' subdoc='440'></word>
     <word form='ἀφιγμένος' full='ἀφιγμένος' head='12' id='16' lemma='ἀφικνέομαι' postag='v-srpmmn-' relation='OBJ' speaker='Χορός' subdoc='440'></word>
     <word form='.' full='.' head='0' id='17' lemma='.' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='440'></word>
@@ -4016,12 +4019,12 @@
     <word form='ἐν' full='ἐν' head='9' id='10' lemma='ἐν' postag='r--------' relation='AuxP' speaker='Ξανθίας' subdoc='443'></word>
     <word form='τοῖς' full='τοῖς' head='12' id='11' lemma='ὁ' postag='l-p---nd-' relation='ATR' speaker='Ξανθίας' subdoc='443'></word>
     <word form='στρώμασιν' full='στρώμασιν' head='10' id='12' lemma='στρῶμα' postag='n-p---nd-' relation='ATR' speaker='Ξανθίας' subdoc='443'></word>
-    <word form=';' full=';' head='0' id='13' lemma=';' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='442'></word>
+    <word form=';' full=';' head='0' id='13' lemma=';' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='443'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='14' insertion_id='009ae' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='443'></word>
   </sentence>
   <sentence id='375'>
-    <word form='χωρεῖτε' full='χωρεῖτε' head='0' id='1' lemma='χωρέω' postag='v2ppma---' relation='PRED' speaker='Χορός' subdoc='444'></word>
-    <word form='νῦν' full='νῦν' head='1' id='2' lemma='νῦν' postag='d--------' relation='ADV' speaker='Χορός' subdoc='445'></word>
+    <word form='χωρεῖτέ' full='χωρεῖτέ' head='0' id='1' lemma='χωρέω' postag='v2ppma---' relation='PRED' speaker='Χορός' subdoc='444'></word>
+    <word form='νυν' full='νυν' head='1' id='2' lemma='νῦν' postag='d--------' relation='ADV' speaker='Χορός' subdoc='444'></word>
     <word form='ἱερὸν' full='ἱερὸν' head='5' id='3' lemma='ἱερός' postag='a-s---ma-' relation='ATR' speaker='Χορός' subdoc='445'></word>
     <word form='ἀνὰ' full='ἀνὰ' head='1' id='4' lemma='ἀνά' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='445'></word>
     <word form='κύκλον' full='κύκλον' head='4' id='5' lemma='κύκλος' postag='n-s---ma-' relation='OBJ' speaker='Χορός' subdoc='445'></word>
@@ -4089,7 +4092,7 @@
     <word form=',' full=',' head='0' id='9' lemma=',' postag='u--------' relation='AuxX' speaker='Χορός' subdoc='456'></word>
     <word form='ὅσοι' full='ὅσοι' head='13' id='10' lemma='ὅσος' postag='p-p---mn-' relation='SBJ' speaker='Χορός' subdoc='457'></word>
     <word features='elision' form='μεμυήμεθ’' full='μεμυήμεθα' head='13' id='11' lemma='μυέω' postag='v1prip---' relation='ATR_CO' speaker='Χορός' subdoc='457'></word>
-    <word form='εὐσεβῆ' full='εὐσεβῆ' head='15' id='12' lemma='εὐσεβής' postag='a-s---ma-' relation='ATR' speaker='Χορός' subdoc='457b'></word>
+    <word form='εὐσεβῆ' full='εὐσεβῆ' head='15' id='12' lemma='εὐσεβής' postag='a-s---ma-' relation='ATR' speaker='Χορός' subdoc='457-57b'></word>
     <word form='τε' full='τε' head='3' id='13' lemma='τε' postag='c--------' relation='COORD' speaker='Χορός' subdoc='457b'></word>
     <word form='διήγομεν' full='διήγομεν' head='13' id='14' lemma='διάγω' postag='v1piia---' relation='ATR_CO' speaker='Χορός' subdoc='457b'></word>
     <word form='τρόπον' full='τρόπον' head='14' id='15' lemma='τρόπος' postag='n-s---ma-' relation='ADV' speaker='Χορός' subdoc='458'></word>
@@ -4121,7 +4124,7 @@
     <word features='elision' form='ἐνθάδ’' full='ἐνθάδε' head='4' id='2' lemma='ἐνθάδε' postag='d--------' relation='OBJ' speaker='Διόνυσος' subdoc='461'></word>
     <word form='ἄρα' full='ἄρα' head='4' id='3' lemma='ἄρα' postag='g--------' relation='AuxY' speaker='Διόνυσος' subdoc='461'></word>
     <word form='κόπτουσιν' full='κόπτουσιν' head='0' id='4' lemma='κόπτω' postag='v3ppia---' relation='PRED' speaker='Διόνυσος' subdoc='461'></word>
-    <word features='crasis1' form='ο' full='οἱ' head='6' id='5' lemma='ὁ' postag='l-p---mn-' relation='ATR' speaker='Ξανθίας' subdoc='461'></word>
+    <word features='crasis1' form='ο' full='οἱ' head='6' id='5' lemma='ὁ' postag='l-p---mn-' relation='ATR' speaker='Διόνυσος' subdoc='461'></word>
     <word features='crasis2' form='ὑπιχώριοι' full='ἐπιχώριοι' head='4' id='6' lemma='ἐπιχώριος' postag='a-p---mn-' relation='ADV' speaker='Διόνυσος' subdoc='461'></word>
     <word form=';' full=';' head='0' id='7' lemma=';' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='461'></word>
   </sentence>
@@ -4508,7 +4511,7 @@
     <word features='elision' form='Δί’' full='Δία' head='1' id='2' lemma='Ζεύς' postag='n-s---ma-' relation='ExD' speaker='Διόνυσος' subdoc='501'></word>
     <word features='elision' form='ἀλλ’' full='ἀλλὰ' head='10' id='3' lemma='ἀλλά' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='501'></word>
     <word form='ἀληθῶς' full='ἀληθῶς' head='10' id='4' lemma='ἀληθής' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='501'></word>
-    <word features='crasis1' form='ο' full='ὁ' head='8' id='5' lemma='ὁ' postag='l-p---mn-' relation='ATR' speaker='Διόνυσος' subdoc='502'></word>
+    <word features='crasis1' form='ο' full='ὁ' head='8' id='5' lemma='ὁ' postag='l-p---mn-' relation='ATR' speaker='Διόνυσος' subdoc='501'></word>
     <word features='crasis2' form='ὑκ' full='ἐκ' head='8' id='6' lemma='ἐκ' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='501'></word>
     <word form='Μελίτης' full='Μελίτης' head='6' id='7' lemma='Μελίτη' postag='n-s---fg-' relation='ATR' speaker='Διόνυσος' subdoc='501'></word>
     <word form='μαστιγίας' full='μαστιγίας' head='10' id='8' lemma='μαστιγίας' postag='n-s---mn-' relation='SBJ' speaker='Διόνυσος' subdoc='501'></word>
@@ -4587,8 +4590,8 @@
     <word form='μή' full='μή' head='8' id='5' lemma='μή' postag='d--------' relation='AuxZ' speaker='Θεράπαινα' subdoc='508'></word>
     <word features='elision' form='σ’' full='σε' head='9' id='6' lemma='σύ' postag='p-s---ma-' relation='SBJ' speaker='Θεράπαινα' subdoc='508'></word>
     <word form='ἐγὼ' full='ἐγὼ' head='8' id='7' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Θεράπαινα' subdoc='508'></word>
-    <word features='elision' form='περιόψομ’' full='περιόψομαι' head='0' id='8' lemma='περιοράω' postag='v1sfim---' relation='PRED' speaker='Θεράπαινα' subdoc='509'></word>
-    <word features='elision' form='ἀπελθόντ’' full='ἀπελθόντα' head='8' id='9' lemma='ἀπέρχομαι' postag='v-sapama-' relation='OBJ' speaker='Θεράπαινα' subdoc='509'></word>
+    <word features='crasis1' form='περιόψομ' full='περιόψομαι' head='0' id='8' lemma='περιοράω' postag='v1sfim---' relation='PRED' speaker='Θεράπαινα' subdoc='509'></word>
+    <word features='elision, crasis2' form='ἀπελθόντ’' full='ἀπελθόντα' head='8' id='9' lemma='ἀπέρχομαι' postag='v-sapama-' relation='OBJ' speaker='Θεράπαινα' subdoc='509'></word>
     <word form=',' full=',' head='0' id='10' lemma=',' postag='u--------' relation='AuxX' speaker='Θεράπαινα' subdoc='509'></word>
     <word form='ἐπεί' full='ἐπεί' head='8' id='11' lemma='ἐπεί' postag='c--------' relation='AuxC' speaker='Θεράπαινα' subdoc='509'></word>
     <word form='τοι' full='τοι' head='22' id='12' lemma='σύ' postag='p-s---md-' relation='OBJ' speaker='Θεράπαινα' subdoc='509'></word>
@@ -4810,7 +4813,7 @@
     <word form='ὢν' full='ὢν' head='16' id='11' lemma='εἰμί' postag='v-sppamn-' relation='ADV' speaker='Διόνυσος' subdoc='531'></word>
     <word form='καὶ' full='καὶ' head='11' id='12' lemma='καί' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='531'></word>
     <word form='θνητὸς' full='θνητὸς' head='12' id='13' lemma='θνητός' postag='a-s---mn-' relation='PNOM' speaker='Διόνυσος' subdoc='531'></word>
-    <word features='crasis1' form='Ἁ' full='ὁ' head='15' id='14' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Διόνυσος' subdoc='530'></word>
+    <word features='crasis1' form='Ἁ' full='ὁ' head='15' id='14' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Διόνυσος' subdoc='531'></word>
     <word features='crasis2' form='λκμήνης' full='Ἀλκμήνης' head='16' id='15' lemma='Ἀλκμήνη' postag='n-s---fg-' relation='PNOM' speaker='Διόνυσος' subdoc='531'></word>
     <word form='ἔσει' full='ἔσει' head='9' id='16' lemma='εἰμί' postag='v2sfim---' relation='OBJ' speaker='Διόνυσος' subdoc='531'></word>
     <word form=';' full=';' head='0' id='17' lemma=';' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='531'></word>
@@ -4908,12 +4911,12 @@
     <word form='Μιλησίοις' full='Μιλησίοις' head='13' id='14' lemma='Μιλήσιος' postag='a-p---nd-' relation='ATR' speaker='Διόνυσος' subdoc='543'></word>
     <word form='ἀνατετραμμένος' full='ἀνατετραμμένος' head='19' id='15' lemma='ἀνατρέπω' postag='v-srppmn-' relation='ADV' speaker='Διόνυσος' subdoc='543b'></word>
     <word form='κυνῶν' full='κυνῶν' head='19' id='16' lemma='κυνέω' postag='v-sppamn-' relation='ADV' speaker='Διόνυσος' subdoc='543b' gloss=''></word>
-    <word features='elision' form='ὀρχηστρίδ’' full='ὀρχηστρίδα' head='16' id='17' lemma='ὀρχηστρίς' postag='n-s---fa-' relation='OBJ' speaker='Διόνυσος' subdoc='544'></word>
+    <word features='elision' form='ὀρχηστρίδ’' full='ὀρχηστρίδα' head='16' id='17' lemma='ὀρχηστρίς' postag='n-s---fa-' relation='OBJ' speaker='Διόνυσος' subdoc='534b-44'></word>
     <word features='elision' form='εἶτ’' full='εἶτα' head='19' id='18' lemma='εἶτα' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='544'></word>
     <word form='ᾔτησεν' full='ᾔτησεν' head='32' id='19' lemma='αἰτέω' postag='v3saia---' relation='ADV_CO' speaker='Διόνυσος' subdoc='544'></word>
     <word features='elision' form='ἀμίδ’' full='ἀμίδα' head='19' id='20' lemma='ἀμίς' postag='n-s---fa-' relation='OBJ' speaker='Διόνυσος' subdoc='544'></word>
     <word form=',' full=',' head='0' id='21' lemma=',' postag='u--------' relation='AuxX' speaker='Διόνυσος' subdoc='544'></word>
-    <word form='ἐγὼ' full='ἐγὼ' head='29' id='22' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Διόνυσος' subdoc='544'></word>
+    <word form='ἐγὼ' full='ἐγὼ' head='29' id='22' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Διόνυσος' subdoc='544-44b'></word>
     <word form='δὲ' full='δὲ' head='32' id='23' lemma='δέ' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='544b'></word>
     <word form='πρὸς' full='πρὸς' head='26' id='24' lemma='πρός' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='544b'></word>
     <word form='τοῦτον' full='τοῦτον' head='24' id='25' lemma='οὗτος' postag='p-s---ma-' relation='OBJ' speaker='Διόνυσος' subdoc='544b'></word>
@@ -4922,7 +4925,7 @@
     <word features='crasis2' form='οὐρεβίνθου' full='ἐρεβίνθου' head='29' id='28' lemma='ἐρέβινθος' postag='n-s---mg-' relation='OBJ' speaker='Διόνυσος' subdoc='545'></word>
     <word features='prodelision' form='’δραττόμην' full='ἐδραττόμην' head='32' id='29' lemma='δράσσομαι' postag='v1siim---' relation='ADV_CO' speaker='Διόνυσος' subdoc='545'></word>
     <word form=',' full=',' head='0' id='30' lemma=',' postag='u--------' relation='AuxX' speaker='Διόνυσος' subdoc='545'></word>
-    <word form='οὗτος' full='οὗτος' head='39' id='31' lemma='οὗτος' postag='p-s---mn-' relation='SBJ' speaker='Διόνυσος' subdoc='546'></word>
+    <word form='οὗτος' full='οὗτος' head='39' id='31' lemma='οὗτος' postag='p-s---mn-' relation='SBJ' speaker='Διόνυσος' subdoc='545-46'></word>
     <word features='elision' form='δ’' full='δὲ' head='7' id='32' lemma='δέ' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='546'></word>
     <word features='elision' form='ἅτ’' full='ἅτε' head='34' id='33' lemma='ὅστε' postag='p-s---fn-' relation='AuxY' speaker='Διόνυσος' subdoc='546'></word>
     <word form='ὢν' full='ὢν' head='39' id='34' lemma='εἰμί' postag='v-sppamn-' relation='ADV' speaker='Διόνυσος' subdoc='546'></word>
@@ -5390,7 +5393,7 @@
     <word form='πάλιν' full='πάλιν' head='11' id='14' lemma='πάλιν' postag='d--------' relation='ADV' speaker='Χορός' subdoc='591'></word>
     <word form=',' full=',' head='0' id='15' lemma=',' postag='u--------' relation='AuxX' speaker='Χορός' subdoc='591'></word>
     <word form='ἀνανεάζειν' full='ἀνανεάζειν' head='18' id='16' lemma='ἀνανεάζω' postag='v--pna---' relation='SBJ_CO' speaker='Χορός' subdoc='592'></word>
-    <word form='G' full='G' head='0' id='17' lemma='G' postag='z--------' relation='GAP' speaker='Χορός' subdoc='592'></word>
+    <word form='—u—u' full='—u—u' head='0' id='17' lemma='G' postag='z--------' relation='GAP' speaker='Χορός' subdoc='592'></word>
     <word form='καὶ' full='καὶ' head='4' id='18' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='593'></word>
     <word form='βλέπειν' full='βλέπειν' head='18' id='19' lemma='βλέπω' postag='v--pna---' relation='SBJ_CO' speaker='Χορός' subdoc='593'></word>
     <word form='αὖθις' full='αὖθις' head='19' id='20' lemma='αὖθις' postag='d--------' relation='ADV' speaker='Χορός' subdoc='593'></word>
@@ -5454,7 +5457,7 @@
     <word features='elision' form='ταῦτ’' full='ταῦτα' head='11' id='10' lemma='οὗτος' postag='p-p---na-' relation='OBJ' speaker='Ξανθίας' subdoc='600'></word>
     <word form='ἀφαιρεῖσθαι' full='ἀφαιρεῖσθαι' head='13' id='11' lemma='ἀφαιρέω' postag='v--pnm---' relation='OBJ' speaker='Ξανθίας' subdoc='600'></word>
     <word form='πάλιν' full='πάλιν' head='11' id='12' lemma='πάλιν' postag='d--------' relation='ADV' speaker='Ξανθίας' subdoc='600'></word>
-    <word form='πειράσεταί' full='πειράσεταί' head='1' id='13' lemma='πειράω' postag='v3sfim---' relation='PRED' speaker='Ξανθίας' subdoc='600'></word>
+    <word form='πειράσεταί' full='πειράσεταί' head='1' id='13' lemma='πειράω' postag='v3sfim---' relation='PRED' speaker='Ξανθίας' subdoc='600-600b'></word>
     <word features='elision' form='μ’' full='με' head='11' id='14' lemma='ἐγώ' postag='p-s---ma-' relation='OBJ' speaker='Ξανθίας' subdoc='600b'></word>
     <word form='εὖ' full='εὖ' head='16' id='15' lemma='εὖ' postag='d--------' relation='ADV' speaker='Ξανθίας' subdoc='600b'></word>
     <word features='elision' form='οἶδ’' full='οἶδα' head='0' id='16' lemma='οἶδα' postag='v1sria---' relation='PRED' speaker='Ξανθίας' subdoc='600b'></word>
@@ -6025,10 +6028,11 @@
     <word id='13' insertion_id='0012e' artificial='elliptic' head='4' relation='PRED_CO' form='[0]'></word>
   </sentence>
   <sentence id='548'>
-    <word form='ἅνθρωπος' full='ἅνθρωπος' head='4' id='1' lemma='ἄνθρωπος' postag='n-s---mn-' relation='SBJ' speaker='Ἄιακος' subdoc='652'></word>
-    <word form='ἱερός' full='ἱερός' head='1' id='2' lemma='ἱερός' postag='a-s---mn-' relation='ATR' speaker='Ἄιακος' subdoc='652'></word>
-    <word form='.' full='.' head='0' id='3' lemma='.' postag='u--------' relation='AuxK' speaker='Ἄιακος' subdoc='652'></word>
-    <word artificial='elliptic' form='E' full='E' head='0' id='4' insertion_id='0004e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='652'></word>
+    <word features='crasis1' form='ἅ' full='ὁ' head='2' id='1' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Ἄιακος' subdoc='652'></word>
+    <word features='crasis2' form='νθρωπος' full='ἄνθρωπος' head='5' id='2' lemma='ἄνθρωπος' postag='n-s---mn-' relation='SBJ' speaker='Ἄιακος' subdoc='652'></word>
+    <word form='ἱερός' full='ἱερός' head='5' id='3' lemma='ἱερός' postag='a-s---mn-' relation='PNOM' speaker='Ἄιακος' subdoc='652'></word>
+    <word form='.' full='.' head='0' id='4' lemma='.' postag='u--------' relation='AuxK' speaker='Ἄιακος' subdoc='652'></word>
+    <word artificial='elliptic' form='E' full='E' head='0' id='5' insertion_id='0005e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='652'></word>
   </sentence>
   <sentence id='549'>
     <word form='δεῦρο' full='δεῦρο' head='3' id='1' lemma='δεῦρο' postag='d--------' relation='ADV' speaker='Ἄιακος' subdoc='652'></word>
@@ -6256,15 +6260,15 @@
     <word form='.' full='.' head='0' id='14' lemma='.' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='673'></word>
   </sentence>
   <sentence id='578'>
-    <word form='Μοῦσα' full='Μοῦσα' head='5' id='1' lemma='Μοῦσα' postag='n-s---fv-' relation='ExD' speaker='Χορός' subdoc='675'></word>
-    <word form='χορῶν' full='χορῶν' head='1' id='2' lemma='χορός' postag='n-p---mg-' relation='ATR' speaker='Χορός' subdoc='675'></word>
-    <word form='ἱερῶν' full='ἱερῶν' head='2' id='3' lemma='ἱερός' postag='a-p---mg-' relation='ATR' speaker='Χορός' subdoc='675'></word>
-    <word form='·' full='·' head='0' id='4' lemma='·' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='675'></word>
+    <word form='Μοῦσα' full='Μοῦσα' head='5' id='1' lemma='Μοῦσα' postag='n-s---fv-' relation='ExD' speaker='Χορός' subdoc='674'></word>
+    <word form='χορῶν' full='χορῶν' head='1' id='2' lemma='χορός' postag='n-p---mg-' relation='ATR' speaker='Χορός' subdoc='674'></word>
+    <word form='ἱερῶν' full='ἱερῶν' head='2' id='3' lemma='ἱερός' postag='a-p---mg-' relation='ATR' speaker='Χορός' subdoc='674'></word>
+    <word form='·' full='·' head='0' id='4' lemma='·' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='674'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='5' insertion_id='0005e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='675'></word>
   </sentence>
   <sentence id='579'>
-    <word form='ἐπίβηθι' full='ἐπίβηθι' head='2' id='1' lemma='ἐπιβαίνω' postag='v2sama---' relation='PRED_CO' speaker='Χορός' subdoc='675'></word>
-    <word form='καὶ' full='καὶ' head='0' id='2' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='675'></word>
+    <word form='ἐπίβηθι' full='ἐπίβηθι' head='2' id='1' lemma='ἐπιβαίνω' postag='v2sama---' relation='PRED_CO' speaker='Χορός' subdoc='674'></word>
+    <word form='καὶ' full='καὶ' head='0' id='2' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='674'></word>
     <word features='elision' form='ἔλθ’' full='ἐλθὲ' head='2' id='3' lemma='ἔρχομαι' postag='v2sama---' relation='PRED_CO' speaker='Χορός' subdoc='675'></word>
     <word form='ἐπὶ' full='ἐπὶ' head='2' id='4' lemma='ἐπί' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='675'></word>
     <word form='τέρψιν' full='τέρψιν' head='4' id='5' lemma='τέρψις' postag='n-s---fa-' relation='OBJ' speaker='Χορός' subdoc='675'></word>
@@ -6290,7 +6294,10 @@
     <word form='χείλεσιν' full='χείλεσιν' head='22' id='25' lemma='χεῖλος' postag='n-p---nd-' relation='ADV' speaker='Χορός' subdoc='678'></word>
     <word form='ἀμφιλάλοις' full='ἀμφιλάλοις' head='25' id='26' lemma='ἀμφίλαλος' postag='a-p---nd-' relation='ATR' speaker='Χορός' subdoc='678'></word>
     <word form='δεινὸν' full='δεινὸν' head='28' id='27' lemma='δεινός' postag='a-s---na-' relation='ADV' speaker='Χορός' subdoc='680'></word>
-    <word form='ἐπιβρέμεται' full='ἐπιβρέμεται' head='13' id='28' lemma='ἐπιβρέμω' postag='v3spim---' relation='ATR' speaker='Χορός' subdoc='680'></word>
+    <word form='ἐπιβρέμεταί' full='ἐπιβρέμεταί' head='13' id='28' lemma='ἐπιβρέμω' postag='v3spim---' relation='ATR' speaker='Χορός' subdoc='680'></word>
+    <word form='‹' full='‹' head='0' id='28a' lemma='‹' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='682'></word>
+    <word form='τις' full='τις' head='29' id='28b' lemma='τις' postag='p-s---fn-' relation='ATR' speaker='Χορός' subdoc='681'></word>
+    <word form='›' full='›' head='0' id='28c' lemma='›' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='682'></word>
     <word form='Θρῃκία' full='Θρῃκία' head='30' id='29' lemma='Θρᾷξ' postag='a-s---fn-' relation='ATR' speaker='Χορός' subdoc='681'></word>
     <word form='χελιδὼν' full='χελιδὼν' head='28' id='30' lemma='χελιδών' postag='n-s---fn-' relation='SBJ' speaker='Χορός' subdoc='681'></word>
     <word form='ἐπὶ' full='ἐπὶ' head='33' id='31' lemma='ἐπί' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='682'></word>
@@ -6537,8 +6544,9 @@
     <word form='βαλανεὺς' full='βαλανεὺς' head='25' id='31' lemma='βαλανεύς' postag='n-s---mn-' relation='APOS' speaker='Χορός' subdoc='710'></word>
     <word form='ὁπόσοι' full='ὁπόσοι' head='33' id='32' lemma='ὁπόσος' postag='p-p---mn-' relation='SBJ' speaker='Χορός' subdoc='710'></word>
     <word form='κρατοῦσι' full='κρατοῦσι' head='30' id='33' lemma='κρατέω' postag='v3ppia---' relation='ADV' speaker='Χορός' subdoc='710'></word>
-    <word form='κυκησιτέφρoυ' full='κυκησιτέφρου' head='36' id='34' lemma='κυκησίτεφρος' postag='a-s---mg-' relation='ATR' speaker='Χορός' subdoc='710'></word>
-    <word form='ψευδολίτρου' full='ψευδολίτρου' head='36' id='35' lemma='ψευδόλιτρος' postag='a-s---mg-' relation='ATR' speaker='Χορός' subdoc='711'></word>
+    <word form='κυκησιτέφρoυ' full='κυκησιτέφρου' head='35a' id='34' lemma='κυκησίτεφρος' postag='a-s---mg-' relation='ATR_CO' speaker='Χορός' subdoc='710'></word>
+    <word form='ψευδολίτρου' full='ψευδολίτρου' head='35a' id='35' lemma='ψευδόλιτρος' postag='a-s---mg-' relation='ATR_CO' speaker='Χορός' subdoc='711'></word>
+    <word form='τε' full='τε' head='37' id='35a' lemma='τε' postag='c--------' relation='COORD' speaker='Χορός' subdoc='711'></word>
     <word form='κονίας' full='κονίας' head='37' id='36' lemma='κονία' postag='n-s---fg-' relation='OBJ_CO' speaker='Χορός' subdoc='711'></word>
     <word form='καὶ' full='καὶ' head='33' id='37' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='712'></word>
     <word form='Κιμωλίας' full='Κιμωλίας' head='39' id='38' lemma='Κιμωλία' postag='n-s---fg-' relation='ATR' speaker='Χορός' subdoc='712'></word>
@@ -6563,7 +6571,7 @@
     <word features='crasis1' form='κ' full='καὶ' head='12' id='11' lemma='καί' postag='c--------' relation='AuxZ' speaker='Χορός' subdoc='715'></word>
     <word features='crasis2' form='ἀποδυθῇ' full='ἀποδυθῇ' head='8' id='12' lemma='ἀποδύω' postag='v3sasp---' relation='ADV' speaker='Χορός' subdoc='715'></word>
     <word form='μεθύων' full='μεθύων' head='12' id='13' lemma='μεθύω' postag='v-sppamn-' relation='ADV' speaker='Χορός' subdoc='715'></word>
-    <word form='ἄνευ' full='ἄνευ' head='16' id='14' lemma='ἄνευ' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='715'></word>
+    <word form='ἄνευ' full='ἄνευ' head='16' id='14' lemma='ἄνευ' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='715-16'></word>
     <word form='ξύλου' full='ξύλου' head='14' id='15' lemma='ξύλον' postag='n-s---ng-' relation='ADV' speaker='Χορός' subdoc='716'></word>
     <word form='βαδίζων' full='βαδίζων' head='12' id='16' lemma='βαδίζω' postag='v-sppamn-' relation='ADV' speaker='Χορός' subdoc='716'></word>
     <word form='.' full='.' head='0' id='17' lemma='.' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='716'></word>
@@ -6714,8 +6722,8 @@
     <word form='ἀλλὰ' full='ἀλλὰ' head='9' id='1' lemma='ἀλλά' postag='c--------' relation='AuxY' speaker='Χορός' subdoc='734'></word>
     <word form='καὶ' full='καὶ' head='3' id='2' lemma='καί' postag='c--------' relation='AuxZ' speaker='Χορός' subdoc='734'></word>
     <word form='νῦν' full='νῦν' head='9' id='3' lemma='νῦν' postag='d--------' relation='ADV' speaker='Χορός' subdoc='734'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='5' id='4' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Χορός' subdoc='734' gloss=''></word>
-    <word features='crasis2' form='νόητοι' full='ἀνόητοι' head='9' id='5' lemma='ἀνόητος' postag='a-p---mv-' relation='ExD' speaker='Χορός' subdoc='734'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='5' id='4' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Χορός' subdoc='734' gloss=''></word>
+    <word form='νόητοι' full='ἀνόητοι' head='9' id='5' lemma='ἀνόητος' postag='a-p---mv-' relation='ExD' speaker='Χορός' subdoc='734'></word>
     <word form='μεταβαλόντες' full='μεταβαλόντες' head='9' id='6' lemma='μεταβάλλω' postag='v-papamn-' relation='ADV' speaker='Χορός' subdoc='734'></word>
     <word form='τοὺς' full='τοὺς' head='8' id='7' lemma='ὁ' postag='l-p---ma-' relation='ATR' speaker='Χορός' subdoc='734'></word>
     <word form='τρόπους' full='τρόπους' head='6' id='8' lemma='τρόπος' postag='n-p---ma-' relation='OBJ' speaker='Χορός' subdoc='734'></word>
@@ -6804,8 +6812,8 @@
   </sentence>
   <sentence id='600'>
     <word form='ᾤμωξε' full='ᾤμωξε' head='0' id='1' lemma='οἰμώζω' postag='v3saia---' relation='PRED' speaker='Ξανθίας' subdoc='743'></word>
-    <word features='crasis1' form='μέντ' full='μέντοι' head='1' id='2' lemma='μέντοι' postag='g--------' relation='AuxY' speaker='Ξανθίας' subdoc='743'></word>
-    <word features='crasis2' form='ἄν' full='ἄν' head='1' id='3' lemma='ἄν' postag='g--------' relation='AuxY' speaker='Ξανθίας' subdoc='743'></word>
+    <word features='crasis' form='μέντ' full='μέντοι' head='1' id='2' lemma='μέντοι' postag='g--------' relation='AuxY' speaker='Ξανθίας' subdoc='743'></word>
+    <word form='ἄν' full='ἄν' head='1' id='3' lemma='ἄν' postag='g--------' relation='AuxY' speaker='Ξανθίας' subdoc='743'></word>
     <word form='.' full='.' head='0' id='4' lemma='.' postag='u--------' relation='AuxK' speaker='Ξανθίας' subdoc='743'></word>
   </sentence>
   <sentence id='601'>
@@ -7249,7 +7257,7 @@
     <word form=',' full=',' head='0' id='10' lemma=',' postag='u--------' relation='AuxX' speaker='Ἄιακος' subdoc='788'></word>
     <word form='ὅτε' full='ὅτε' head='7' id='11' lemma='ὅτε' postag='c--------' relation='AuxC' speaker='Ἄιακος' subdoc='789'></word>
     <word form='δὴ' full='δὴ' head='11' id='12' lemma='δή' postag='g--------' relation='AuxZ' speaker='Ἄιακος' subdoc='789'></word>
-    <word form='κατῆλθε' full='κατῆλθε' head='11' id='13' lemma='κατέρχομαι' postag='v3saia---' relation='ADV' speaker='��ιακος' subdoc='789'></word>
+    <word form='κατῆλθε' full='κατῆλθε' head='11' id='13' lemma='κατέρχομαι' postag='v3saia---' relation='ADV' speaker='Ἄιακος' subdoc='789'></word>
     <word form=',' full=',' head='0' id='14' lemma=',' postag='u--------' relation='AuxX' speaker='Ἄιακος' subdoc='789'></word>
     <word features='crasis1' form='κ' full='καὶ' head='20' id='15' lemma='καί' postag='c--------' relation='AuxY' speaker='Ἄιακος' subdoc='789'></word>
     <word features='crasis2' form='ἀνέβαλε' full='ἀνέβαλε' head='15' id='16' lemma='ἐμβάλλω' postag='v3saia---' relation='PRED_CO' speaker='Ἄιακος' subdoc='789'></word>
@@ -7638,8 +7646,8 @@
     <word form='.' full='.' head='0' id='8' lemma='.' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='835'></word>
   </sentence>
   <sentence id='673'>
-    <word features='crasis1' form='ἐγ' full='ἐγὼ' head='4' id='1' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Εὐριπίδης' subdoc='836'></word>
-    <word features='crasis2' form='ᾦδα' full='οἶδα' head='4' id='2' lemma='οἶδα' postag='v1sria---' relation='PRED_CO' speaker='Εὐριπίδης' subdoc='836'></word>
+    <word features='crasis' form='ἐγ' full='ἐγὼ' head='4' id='1' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Εὐριπίδης' subdoc='836'></word>
+    <word form='ᾦδα' full='οἶδα' head='4' id='2' lemma='οἶδα' postag='v1sria---' relation='PRED_CO' speaker='Εὐριπίδης' subdoc='836'></word>
     <word form='τοῦτον' full='τοῦτον' head='4' id='3' lemma='οὗτος' postag='p-s---ma-' relation='OBJ' speaker='Εὐριπίδης' subdoc='836'></word>
     <word form='καὶ' full='καὶ' head='0' id='4' lemma='καί' postag='c--------' relation='COORD' speaker='Εὐριπίδης' subdoc='836'></word>
     <word form='διέσκεμμαι' full='διέσκεμμαι' head='4' id='5' lemma='διασκοπέω' postag='v1srim---' relation='PRED_CO' speaker='Εὐριπίδης' subdoc='836'></word>
@@ -7904,8 +7912,8 @@
     <word form='ἴσου' full='ἴσου' head='2' id='3' lemma='ἴσος' postag='a-s---ng-' relation='ADV' speaker='Αἰσχύλος' subdoc='867'></word>
     <word form='γάρ' full='γάρ' head='5' id='4' lemma='γάρ' postag='g--------' relation='AuxY' speaker='Αἰσχύλος' subdoc='867'></word>
     <word form='ἐστιν' full='ἐστιν' head='0' id='5' lemma='εἰμί' postag='v3spia---' relation='PRED' speaker='Αἰσχύλος' subdoc='867'></word>
-    <word features='crasis1' form='ἁ' full='ὁ' head='7' id='6' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Αἰσχύλος' subdoc='867'></word>
-    <word features='crasis2' form='γὼν' full='ἁγὼν' head='5' id='7' lemma='ἀγών' postag='n-s---mn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='867'></word>
+    <word features='crasis' form='ἁ' full='ὁ' head='7' id='6' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Αἰσχύλος' subdoc='867'></word>
+    <word form='γὼν' full='ἁγὼν' head='5' id='7' lemma='ἀγών' postag='n-s---mn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='867'></word>
     <word form='νῷν' full='νῷν' head='5' id='8' lemma='ἐγώ' postag='p1d---md-' relation='ADV' speaker='Αἰσχύλος' subdoc='867'></word>
     <word form='.' full='.' head='0' id='9' lemma='.' postag='u--------' relation='AuxK' speaker='Αἰσχύλος' subdoc='867'></word>
   </sentence>
@@ -8138,7 +8146,7 @@
     <word form='τίνα' full='τίνα' head='11' id='9' lemma='τίς' postag='p-s---ma-' relation='ATR' speaker='Χορός' subdoc='896b'></word>
     <word form='λόγων' full='λόγων' head='11' id='10' lemma='λόγος' postag='n-p---mg-' relation='ATR' speaker='Χορός' subdoc='896b'></word>
     <word form='ἐμμέλειαν' full='ἐμμέλειαν' head='8' id='11' lemma='ἐμμέλεια' postag='n-s---fa-' relation='OBJ' speaker='Χορός' subdoc='896b'></word>
-    <word form='.' full='.' head='0' id='12' lemma='.' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='897'></word>
+    <word form='.' full='.' head='0' id='12' lemma='.' postag='u--------' relation='AuxK' speaker='Χορός' subdoc='896b'></word>
   </sentence>
   <sentence id='709a'>
     <word form='ἔπιτε' full='ἔπιτε' head='0' id='12' lemma='ἐπέρχομαι' postag='v2ppia---' relation='OBJ' speaker='Χορός' subdoc='897'></word>
@@ -8520,8 +8528,8 @@
     <word form='ἐν' full='ἐν' head='7' id='2' lemma='ἐν' postag='r--------' relation='AuxP' speaker='Αἰσχύλος' subdoc='933'></word>
     <word form='ταῖς' full='ταῖς' head='4' id='3' lemma='ὁ' postag='l-p---fd-' relation='ATR' speaker='Αἰσχύλος' subdoc='933'></word>
     <word form='ναυσὶν' full='ναυσὶν' head='2' id='4' lemma='ναῦς' postag='n-p---fd-' relation='ADV' speaker='Αἰσχύλος' subdoc='933'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='6' id='5' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Αἰσχύλος' subdoc='933' gloss=''></word>
-    <word features='crasis2, elision' form='μαθέστατ’' full='ἀμαθέστατε' head='7' id='6' lemma='ἀμαθής' postag='a-s---mvs' relation='OBJ' speaker='Αἰσχύλος' subdoc='933'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='6' id='5' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Αἰσχύλος' subdoc='933' gloss=''></word>
+    <word features='elision' form='μαθέστατ’' full='ἀμαθέστατε' head='7' id='6' lemma='ἀμαθής' postag='a-s---mvs' relation='OBJ' speaker='Αἰσχύλος' subdoc='933'></word>
     <word form='ἐνεγέγραπτο' full='ἐνεγέγραπτο' head='0' id='7' lemma='ἐγγράφω' postag='v3slim---' relation='PRED' speaker='Αἰσχύλος' subdoc='933'></word>
     <word form='.' full='.' head='0' id='8' lemma='.' postag='u--------' relation='AuxK' speaker='Αἰσχύλος' subdoc='933'></word>
   </sentence>
@@ -9149,7 +9157,7 @@
     <word form='καὶ' full='καὶ' head='17' id='9' lemma='καί' postag='c--------' relation='COORD' speaker='Διόνυσος' subdoc='1005'></word>
     <word form='κοσμήσας' full='κοσμήσας' head='9' id='10' lemma='κοσμέω' postag='v-sapamn-' relation='ADV_CO' speaker='Διόνυσος' subdoc='1005'></word>
     <word form='τραγικὸν' full='τραγικὸν' head='12' id='11' lemma='τραγικός' postag='a-s---ma-' relation='ATR' speaker='Διόνυσος' subdoc='1005'></word>
-    <word form='λῆρον' full='λῆρον' head='10' id='12' lemma='λῆρος' postag='n-s---ma-' relation='OBJ' speaker='��ιόνυσος' subdoc='1005'></word>
+    <word form='λῆρον' full='λῆρον' head='10' id='12' lemma='λῆρος' postag='n-s---ma-' relation='OBJ' speaker='Διόνυσος' subdoc='1005'></word>
     <word form=',' full=',' head='0' id='13' lemma=',' postag='u--------' relation='AuxX' speaker='Διόνυσος' subdoc='1005'></word>
     <word form='θαρρῶν' full='θαρρῶν' head='17' id='14' lemma='θαρσέω' postag='v-sppamn-' relation='ADV' speaker='Διόνυσος' subdoc='1005'></word>
     <word form='τὸν' full='τὸν' head='16' id='15' lemma='ὁ' postag='l-s---ma-' relation='ATR' speaker='Διόνυσος' subdoc='1005'></word>
@@ -9699,7 +9707,7 @@
     <word form='ἀνδρῶν' full='ἀνδρῶν' head='5' id='6' lemma='ἀνήρ' postag='n-p---mg-' relation='ATR' speaker='Εὐριπίδης' subdoc='1049'></word>
     <word form='τὴν' full='τὴν' head='8' id='7' lemma='ὁ' postag='l-s---fa-' relation='ATR' speaker='Εὐριπίδης' subdoc='1049'></word>
     <word form='πόλιν' full='πόλιν' head='3' id='8' lemma='πόλις' postag='n-s---fa-' relation='OBJ' speaker='Εὐριπίδης' subdoc='1049'></word>
-    <word form='ἁ' full='αἱ' head='10' id='9' lemma='ὁ' postag='l-p---fn-' relation='ATR' speaker='Εὐριπίδης' subdoc='1049'></word>
+    <word features='crasis1' form='ἁ' full='αἱ' head='10' id='9' lemma='ὁ' postag='l-p---fn-' relation='ATR' speaker='Εὐριπίδης' subdoc='1049'></word>
     <word form='μαὶ' full='ἐμαὶ' head='11' id='10' lemma='ἐμός' postag='a-p---fn-' relation='ATR' speaker='Εὐριπίδης' subdoc='1049'></word>
     <word form='Σθενέβοιαι' full='Σθενέβοιαι' head='3' id='11' lemma='Σθενέβοια' postag='n-p---fn-' relation='SBJ' speaker='Εὐριπίδης' subdoc='1049' gloss=''></word>
     <word form=';' full=';' head='0' id='12' lemma=';' postag='u--------' relation='AuxK' speaker='Εὐριπίδης' subdoc='1049'></word>
@@ -9854,7 +9862,7 @@
     <word form='.' full='.' head='0' id='9' lemma='.' postag='u--------' relation='AuxK' speaker='Αἰσχύλος' subdoc='1061'></word>
   </sentence>
   <sentence id='824'>
-    <word form='ἁ' full='ἃ' head='4' id='1' lemma='ὅς' postag='p-p---na-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1062'></word>
+    <word features='crasis1' form='ἁ' full='ἃ' head='4' id='1' lemma='ὅς' postag='p-p---na-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1062'></word>
     <word form='μοῦ' full='ἐμοῦ' head='4' id='2' lemma='ἐγώ' postag='p-s---mg-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1062'></word>
     <word form='χρηστῶς' full='χρηστῶς' head='4' id='3' lemma='χρηστός' postag='d--------' relation='ADV' speaker='Αἰσχύλος' subdoc='1062'></word>
     <word form='καταδείξαντος' full='καταδείξαντος' head='5' id='4' lemma='καταδείκνυμι' postag='v-sapamg-' relation='ADV' speaker='Αἰσχύλος' subdoc='1062'></word>
@@ -11028,8 +11036,8 @@
     <word form='πρὶν' full='πρὶν' head='17' id='13' lemma='πρίν' postag='c--------' relation='AuxC' speaker='Αἰσχύλος' subdoc='1184'></word>
     <word form='φῦναι' full='φῦναι' head='13' id='14' lemma='φύω' postag='v--ana---' relation='ADV' speaker='Αἰσχύλος' subdoc='1184'></word>
     <word form='μὲν' full='μὲν' head='7' id='15' lemma='μέν' postag='g--------' relation='AuxY' speaker='Αἰσχύλος' subdoc='1184'></word>
-    <word features='crasis1' form='Ἁ' full='ὁ' head='16' id='15a' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Αἰσχύλος' subdoc='1184'></word>
-    <word features='crasis2' form='πόλλων' full='Ἀπόλλων' head='17' id='16' lemma='Ἀπόλλων' postag='n-s---mn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1184'></word>
+    <word features='crasis' form='Ἁ' full='ὁ' head='16' id='15a' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Αἰσχύλος' subdoc='1184'></word>
+    <word form='πόλλων' full='Ἀπόλλων' head='17' id='16' lemma='Ἀπόλλων' postag='n-s---mn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1184'></word>
     <word form='ἔφη' full='ἔφη' head='27' id='17' lemma='φημί' postag='v3siia---' relation='SBJ' speaker='Αἰσχύλος' subdoc='1184'></word>
     <word form='ἀποκτενεῖν' full='ἀποκτενεῖν' head='17' id='18' lemma='ἀποκτείνω' postag='v--fna---' relation='OBJ' speaker='Αἰσχύλος' subdoc='1185'></word>
     <word form='τὸν' full='τὸν' head='20' id='19' lemma='ὁ' postag='l-s---ma-' relation='ATR' speaker='Αἰσχύλος' subdoc='1185'></word>
@@ -11508,7 +11516,7 @@
     <word form='οὐχ' full='οὐκ' head='12' id='11' lemma='οὐ' postag='d--------' relation='AuxZ' speaker='Εὐριπίδης' subdoc='1231'></word>
     <word form='ἕξει' full='ἕξει' head='6' id='12' lemma='ἔχω' postag='v3sfia---' relation='ATR' speaker='Εὐριπίδης' subdoc='1231'></word>
     <word form='προσάψαι' full='προσάψαι' head='12' id='13' lemma='προσάπτω' postag='v--ana---' relation='OBJ' speaker='Εὐριπίδης' subdoc='1231'></word>
-    <word form='ληκύθιον' full='ληκύθιον' head='13' id='14' lemma='ληκύθιον' postag='n-s---na-' relation='OBJ' speaker='Εὐριπίδης' subdoc='1231'></word>
+    <word form='λήκυθον' full='λήκυθον' head='13' id='14' lemma='λήκυθος' postag='n-s---fa-' relation='OBJ' speaker='Εὐριπίδης' subdoc='1231'></word>
     <word form='.' full='.' head='0' id='15' lemma='.' postag='u--------' relation='AuxK' speaker='Εὐριπίδης' subdoc='1231'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='16' insertion_id='0016e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='1231'></word>
   </sentence>
@@ -11521,7 +11529,7 @@
     <word form='Πῖσαν' full='Πῖσαν' head='5' id='6' lemma='Πῖσα' postag='n-s---fa-' relation='OBJ' speaker='Εὐριπίδης' subdoc='1232'></word>
     <word form='μολὼν' full='μολὼν' head='12' id='7' lemma='βλώσκω' postag='v-sapamn-' relation='ADV' speaker='Εὐριπίδης' subdoc='1232'></word>
     <word form='θοαῖσιν' full='θοαῖσιν' head='9' id='8' lemma='θοός' postag='a-p---fd-' relation='ATR' speaker='Εὐριπίδης' subdoc='1233'></word>
-    <word features='elision' form='ἵπποισ’' full='ἵπποισι' head='7' id='9' lemma='ἵππος' postag='n-p---fd-' relation='ADV' speaker='Εὐριπίδης' subdoc='1233'></word>
+    <word form='ἵπποις' full='ἵπποις' head='7' id='9' lemma='ἵππος' postag='n-p---fd-' relation='ADV' speaker='Εὐριπίδης' subdoc='1233'></word>
     <word form='—' full='—' head='0' id='10' lemma='—' postag='u--------' relation='AuxK' speaker='Εὐριπίδης' subdoc='1233'></word>
     <word form='”' full='”' head='0' id='11' lemma='”' postag='u--------' relation='AuxG' speaker='Εὐριπίδης' subdoc='1233'></word>
     <word artificial='elliptic' form='E' full='E' head='0' id='12' insertion_id='0011e' lemma='E' postag='z--------' relation='PRED' speaker='-' subdoc='1233'></word>
@@ -11543,8 +11551,8 @@
   </sentence>
   <sentence id='966'>
     <word features='elision' form='ἀλλ’' full='ἀλλὰ' head='7' id='1' lemma='ἀλλά' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='1235'></word>
-    <word features='crasis1' form='ὦ' full='ὦ' head='3' id='2' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Διόνυσος' subdoc='1235' gloss=''></word>
-    <word features='crasis2, elision' form='γάθ’' full='ἀγαθὲ' head='7' id='3' lemma='ἀγαθός' postag='a-s---mv-' relation='ExD' speaker='Διόνυσος' subdoc='1235'></word>
+    <word features='crasis' form='ὦ' full='ὦ' head='3' id='2' lemma='ὦ' postag='e--------' relation='AuxZ' speaker='Διόνυσος' subdoc='1235' gloss=''></word>
+    <word features='elision' form='γάθ’' full='ἀγαθὲ' head='7' id='3' lemma='ἀγαθός' postag='a-s---mv-' relation='ExD' speaker='Διόνυσος' subdoc='1235'></word>
     <word form='ἔτι' full='ἔτι' head='7' id='4' lemma='ἔτι' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='1235'></word>
     <word form='καὶ' full='καὶ' head='6' id='5' lemma='καί' postag='c--------' relation='AuxY' speaker='Διόνυσος' subdoc='1235'></word>
     <word form='νῦν' full='νῦν' head='7' id='6' lemma='νῦν' postag='d--------' relation='ADV' speaker='Διόνυσος' subdoc='1235'></word>
@@ -11756,7 +11764,7 @@
     <word form='καὶ' full='καὶ' head='17' id='15' lemma='καί' postag='c--------' relation='COORD' speaker='Χορός' subdoc='1255'></word>
     <word form='κάλλιστα' full='κάλλιστα' head='15' id='16' lemma='καλός' postag='a-p---nas' relation='ATR_CO' speaker='Χορός' subdoc='1255'></word>
     <word form='μέλη' full='μέλη' head='18' id='17' lemma='μέλος' postag='n-p---na-' relation='OBJ' speaker='Χορός' subdoc='1255'></word>
-    <word form='ποιήσαντι' full='ποιήσαντι' head='10' id='18' lemma='ποιέω' postag='v-sapamd-' relation='ATR' speaker='Χορός' subdoc='1255'></word>
+    <word form='ποιήσαντι' full='ποιήσαντι' head='10' id='18' lemma='ποιέω' postag='v-sapamd-' relation='ATR' speaker='Χορός' subdoc='1255-56'></word>
     <word form='τῶν' full='τῶν' head='15' id='19' lemma='ὁ' postag='l-p---ng-' relation='ATR' speaker='Χορός' subdoc='1256'></word>
     <word form='μέχρι' full='μέχρι' head='19' id='20' lemma='μέχρι' postag='r--------' relation='AuxP' speaker='Χορός' subdoc='1256'></word>
     <word form='νυνί' full='νυνί' head='20' id='21' lemma='νυνί' postag='d--------' relation='ATR' speaker='Χορός' subdoc='1256'></word>
@@ -11816,11 +11824,11 @@
     <word form='·' full='·' head='0' id='8' lemma='·' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='1263'></word>
   </sentence>
   <sentence id='992'>
-    <word form='{' full='{' head='0' id='1' lemma='{' postag='u--------' relation='AuxG' speaker='-' subdoc='1263a'></word>
+    <word form='[' full='[' head='0' id='1' lemma='[' postag='u--------' relation='AuxG' speaker='-' subdoc='1263a'></word>
     <word form='διαύλιον' full='διαύλιον' head='3' id='2' lemma='διαύλιον' postag='n-s---na-' relation='OBJ' speaker='-' subdoc='1263a'></word>
     <word form='προσαυλεῖ' full='προσαυλεῖ' head='0' id='3' lemma='προσαυλέω' postag='v3spia---' relation='PRED' speaker='-' subdoc='1263a'></word>
     <word form='τις' full='τις' head='3' id='4' lemma='τις' postag='p-s---mn-' relation='SBJ' speaker='-' subdoc='1263a'></word>
-    <word form='}' full='}' head='0' id='5' lemma='}' postag='u--------' relation='AuxG' speaker='-' subdoc='1263a'></word>
+    <word form=']' full=']' head='0' id='5' lemma=']' postag='u--------' relation='AuxG' speaker='-' subdoc='1263a'></word>
   </sentence>
   <sentence id='993'>
     <word form='“' full='“' head='0' id='1' lemma='“' postag='u--------' relation='AuxG' speaker='Διόνυσος' subdoc='1264'></word>
@@ -11892,8 +11900,8 @@
   </sentence>
   <sentence id='999'>
     <word form='τρίτος' full='τρίτος' head='8' id='1' lemma='τρίτος' postag='a-s---mn-' relation='PNOM' speaker='Διόνυσος' subdoc='1272'></word>
-    <word features='crasis1' form='ᾠ' full='ὦ' head='3' id='2' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Διόνυσος' subdoc='1272'></word>
-    <word features='crasis2' form='σχύλε' full='Αἰσχύλε' head='8' id='3' lemma='Αἰσχύλος' postag='v3siia---' relation='ExD' speaker='Διόνυσος' subdoc='1272'></word>
+    <word features='crasis' form='ᾠ' full='ὦ' head='3' id='2' lemma='ὦ' postag='i--------' relation='AuxZ' speaker='Διόνυσος' subdoc='1272'></word>
+    <word form='σχύλε' full='Αἰσχύλε' head='8' id='3' lemma='Αἰσχύλος' postag='v3siia---' relation='ExD' speaker='Διόνυσος' subdoc='1272'></word>
     <word form='σοὶ' full='σοὶ' head='8' id='4' lemma='σύ' postag='p-s---md-' relation='OBJ' speaker='Διόνυσος' subdoc='1272'></word>
     <word form='κόπος' full='κόπος' head='8' id='5' lemma='κόπος' postag='n-s---mn-' relation='SBJ' speaker='Διόνυσος' subdoc='1272'></word>
     <word form='οὗτος' full='οὗτος' head='5' id='6' lemma='οὗτος' postag='p-s---mn-' relation='ATR' speaker='Διόνυσος' subdoc='1272'></word>
@@ -12186,7 +12194,7 @@
     <word form='αἳ' full='αἳ' head='9' id='4' lemma='ὅς' postag='p-p---fn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1309'></word>
     <word features='elision' form='παρ’' full='παρὰ' head='9' id='5' lemma='παρά' postag='r--------' relation='AuxP' speaker='Αἰσχύλος' subdoc='1309'></word>
     <word form='ἀενάοις' full='ἀενάοις' head='8' id='6' lemma='ἀέναος' postag='a-p---nd-' relation='ATR' speaker='Αἰσχύλος' subdoc='1309'></word>
-    <word form='θαλάσσης' full='θαλάσσης' head='8' id='7' lemma='θάλασσα' postag='n-s---fg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1309'></word>
+    <word form='θαλάσσης' full='θαλάσσης' head='8' id='7' lemma='θάλασσα' postag='n-s---fg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1309-10'></word>
     <word form='κύμασι' full='κύμασι' head='5' id='8' lemma='κῦμα' postag='n-p---nd-' relation='ADV' speaker='Αἰσχύλος' subdoc='1310'></word>
     <word form='στωμύλλετε' full='στωμύλλετε' head='2' id='9' lemma='στωμύλλω' postag='v2piia---' relation='ATR' speaker='Αἰσχύλος' subdoc='1310'></word>
     <word form=',' full=',' head='0' id='10' lemma=',' postag='u--------' relation='AuxX' speaker='Αἰσχύλος' subdoc='1310'></word>
@@ -12219,7 +12227,7 @@
     <word form='ὁ' full='ὁ' head='20' id='17' lemma='ὁ' postag='l-s---mn-' relation='ATR' speaker='Αἰσχύλος' subdoc='1317'></word>
     <word form='φίλαυλος' full='φίλαυλος' head='20' id='18' lemma='φίλαυλος' postag='a-s---mn-' relation='ATR' speaker='Αἰσχύλος' subdoc='1317'></word>
     <word form='ἔπαλλε' full='ἔπαλλε' head='16' id='19' lemma='πάλλω' postag='v3siia---' relation='ADV' speaker='Αἰσχύλος' subdoc='1317'></word>
-    <word form='δελφὶς' full='δελφὶς' head='19' id='20' lemma='δελφίς' postag='n-s---mn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1317'></word>
+    <word form='δελφὶς' full='δελφὶς' head='19' id='20' lemma='δελφίς' postag='n-s---mn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1317-18'></word>
     <word form='πρῴραις' full='πρῴραις' head='19' id='21' lemma='πρῷρα' postag='n-p---fd-' relation='ADV' speaker='Αἰσχύλος' subdoc='1318'></word>
     <word form='κυανεμβόλοις' full='κυανεμβόλοις' head='21' id='22' lemma='κυανέμβολος' postag='a-p---fd-' relation='ATR' speaker='Αἰσχύλος' subdoc='1318'></word>
     <word form='μαντεῖα' full='μαντεῖα' head='24' id='23' lemma='μαντεῖον' postag='n-p---na-' relation='OBJ_CO' speaker='Αἰσχύλος' subdoc='1319'></word>
@@ -12319,10 +12327,8 @@
     <word form='δύστανον' full='δύστανον' head='10' id='9' lemma='δύστηνος' postag='a-s---ma-' relation='ATR' speaker='Αἰσχύλος' subdoc='1332'></word>
     <word form='ὄνειρον' full='ὄνειρον' head='11' id='10' lemma='ὄνειρος' postag='n-s---ma-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1332'></word>
     <word form='πέμπεις' full='πέμπεις' head='0' id='11' lemma='πέμπω' postag='v2spia---' relation='PRED' speaker='Αἰσχύλος' subdoc='1332b'></word>
-    <word form='ἐξ' full='ἐξ' head='11' id='12' lemma='ἐκ' postag='r--------' relation='AuxP' speaker='Αἰσχύλος' subdoc='1332b'></word>
-    <word form='ἀφανοῦς' full='ἀφανοῦς' head='12' id='13' lemma='ἀφανής' postag='a-s---ng-' relation='ADV' speaker='Αἰσχύλος' subdoc='1332b' gloss=''></word>
-    <word form=',' full=',' head='0' id='14' lemma=',' postag='u--------' relation='AuxX' speaker='Αἰσχύλος' subdoc='1332b'></word>
-    <word form='Ἀίδα' full='Ἀίδα' head='16' id='15' lemma='ᾍδης' postag='n-s---mg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1333'></word>
+    <word form='ἀφανοῦς' full='ἀφανοῦς' head='15' id='13' lemma='ἀφανής' postag='a-s---mg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1332b' gloss=''></word>
+    <word form='Ἀίδα' full='Ἀίδα' head='16' id='15' lemma='ᾍδης' postag='n-s---mg-' relation='ADV' speaker='Αἰσχύλος' subdoc='1333'></word>
     <word form='πρόμολον' full='πρόμολον' head='10' id='16' lemma='πρόμολος' postag='n-s---ma-' relation='ATR' speaker='Αἰσχύλος' subdoc='1333' gloss=''></word>
     <word form=',' full=',' head='0' id='17' lemma=',' postag='u--------' relation='AuxX' speaker='Αἰσχύλος' subdoc='1333'></word>
     <word form='ψυχὰν' full='ψυχὰν' head='20' id='18' lemma='ψυχή' postag='n-s---fa-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1334'></word>
@@ -12388,14 +12394,14 @@
     <word form=',' full=',' head='0' id='3' lemma=',' postag='u--------' relation='AuxX' speaker='Αἰσχύλος' subdoc='1341'></word>
     <word form='τάδε' full='τάδε' head='5' id='4' lemma='ὅδε' postag='p-p---na-' relation='ATR' speaker='Αἰσχύλος' subdoc='1342'></word>
     <word form='τέρα' full='τέρα' head='6' id='5' lemma='τέρας' postag='n-p---na-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1342'></word>
-    <word form='θεάσασθε' full='θεάσασθε' head='0' id='6' lemma='θεάομαι' postag='v2pamm---' relation='PRED' speaker='Αἰσχύλος' subdoc='1342'></word>
-    <word form='.' full='.' head='0' id='7' lemma='.' postag='u--------' relation='AuxK' speaker='Αἰσχύλος' subdoc='1342'></word>
+    <word form='θεάσασθε' full='θεάσασθε' head='0' id='6' lemma='θεάομαι' postag='v2pamm---' relation='PRED' speaker='Αἰσχύλος' subdoc='1342-43'></word>
+    <word form='.' full='.' head='0' id='7' lemma='.' postag='u--------' relation='AuxK' speaker='Αἰσχύλος' subdoc='1343'></word>
   </sentence>
   <sentence id='1036'>
     <word form='τὸν' full='τὸν' head='2' id='1' lemma='ὁ' postag='l-s---ma-' relation='ATR' speaker='Αἰσχύλος' subdoc='1343'></word>
     <word form='ἀλεκτρυόνα' full='ἀλεκτρυόνα' head='4' id='2' lemma='ἀλεκτρυών' postag='n-s---ma-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1343'></word>
-    <word form='μου' full='μου' head='2' id='3' lemma='ἐγώ' postag='p-s---mg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1343'></word>
-    <word form='συναρπάσασα' full='συναρπάσασα' head='8' id='4' lemma='συναρπάζω' postag='v-sapafn-' relation='ADV' speaker='Αἰσχύλος' subdoc='1343'></word>
+    <word form='μου' full='μου' head='2' id='3' lemma='ἐγώ' postag='p-s---mg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1343b'></word>
+    <word form='συναρπάσασα' full='συναρπάσασα' head='8' id='4' lemma='συναρπάζω' postag='v-sapafn-' relation='ADV' speaker='Αἰσχύλος' subdoc='1343b'></word>
     <word form='φρούδη' full='φρούδη' head='8' id='5' lemma='φροῦδος' postag='a-s---fn-' relation='PNOM' speaker='Αἰσχύλος' subdoc='1343b'></word>
     <word form='Γλύκη' full='Γλύκη' head='8' id='6' lemma='Γλύκη' postag='n-s---fn-' relation='SBJ' speaker='Αἰσχύλος' subdoc='1343b'></word>
     <word form='.' full='.' head='0' id='7' lemma='.' postag='u--------' relation='AuxK' speaker='Αἰσχύλος' subdoc='1343b'></word>
@@ -12445,7 +12451,7 @@
     <word features='elision' form='ἀνέπτατ’' full='ἀνέπτατο' head='4' id='3' lemma='ἀναπέτομαι' postag='v3saim---' relation='AuxZ' speaker='Αἰσχύλος' subdoc='1351b'></word>
     <word features='elision' form='ἀνέπτατ’' full='ἀνέπτατο' head='0' id='4' lemma='ἀναπέτομαι' postag='v3saim---' relation='PRED' speaker='Αἰσχύλος' subdoc='1351b'></word>
     <word form='ἐς' full='ἐς' head='4' id='5' lemma='εἰς' postag='r--------' relation='AuxP' speaker='Αἰσχύλος' subdoc='1351b'></word>
-    <word form='αἰθέρα' full='αἰθέρα' head='5' id='6' lemma='αἰθήρ' postag='n-s---fa-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1351b'></word>
+    <word form='αἰθέρα' full='αἰθέρα' head='5' id='6' lemma='αἰθήρ' postag='n-s---fa-' relation='OBJ' speaker='Αἰσχύλος' subdoc='1351b-52'></word>
     <word form='κουφοτάταις' full='κουφοτάταις' head='9' id='7' lemma='κοῦφος' postag='a-p---fds' relation='ATR' speaker='Αἰσχύλος' subdoc='1352'></word>
     <word form='πτερύγων' full='πτερύγων' head='9' id='8' lemma='πτέρυξ' postag='n-p---fg-' relation='ATR' speaker='Αἰσχύλος' subdoc='1352'></word>
     <word form='ἀκμαῖς' full='ἀκμαῖς' head='4' id='9' lemma='ἀκμή' postag='n-p---fd-' relation='ADV' speaker='Αἰσχύλος' subdoc='1352'></word>
@@ -12645,7 +12651,7 @@
     <word form='παρὰ' full='παρὰ' head='3' id='4' lemma='παρά' postag='r--------' relation='AuxP' speaker='Διόνυσος' subdoc='1378'></word>
     <word form='τὼ' full='τὼ' head='6' id='5' lemma='ὁ' postag='l-d---fa-' relation='ATR' speaker='Διόνυσος' subdoc='1378'></word>
     <word features='elision' form='πλάστιγγ’' full='πλάστιγγε' head='4' id='6' lemma='πλάστιγξ' postag='n-d---fa-' relation='ADV' speaker='Διόνυσος' subdoc='1378'></word>
-    <word form=',' full=',' head='0' id='7' lemma=',' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='1378'></word>
+    <word form='.' full='.' head='0' id='7' lemma='.' postag='u--------' relation='AuxK' speaker='Διόνυσος' subdoc='1378'></word>
   </sentence>
   <sentence id='1053'>
     <word form='ἰδού' full='ἰδού' head='3' id='1' lemma='ἰδού' postag='i--------' relation='ExD' speaker='Αἰσχύλος καί Εὐριπίδης' subdoc='1378'></word>
@@ -12830,6 +12836,7 @@
     <word form='ἐγὼ' full='ἐγὼ' head='9' id='1' lemma='ἐγώ' postag='p-s---mn-' relation='SBJ' speaker='Εὐριπίδης' subdoc='1395'></word>
     <word form='δὲ' full='δὲ' head='9' id='2' lemma='δέ' postag='c--------' relation='AuxY' speaker='Εὐριπίδης' subdoc='1395'></word>
     <word form='πειθώ' full='πειθώ' head='9' id='3' lemma='πειθώ' postag='n-s---fa-' relation='OBJ' speaker='Εὐριπίδης' subdoc='1395'></word>
+    <word form='γ’' full='γε' head='9' id='4' lemma='γε' postag='c--------' relation='AuxY' speaker='Εὐριπίδης' subdoc='1395'></word>
     <word form=',' full=',' head='0' id='4a' lemma=',' postag='u--------' relation='AuxK' speaker='Εὐριπίδης' subdoc='1395'></word>
     <word form='ἔπος' full='ἔπος' head='3' id='5' lemma='ἔπος' postag='n-s---nn-' relation='APOS' speaker='Εὐριπίδης' subdoc='1395'></word>
     <word features='elision' form='ἄριστ’' full='ἄριστα' head='7' id='6' lemma='ἀγαθός' postag='a-p---nas' relation='ADV' speaker='Εὐριπίδης' subdoc='1395'></word>
@@ -13032,7 +13039,7 @@
     <word form='γὰρ' full='γὰρ' head='8' id='3' lemma='γάρ' postag='g--------' relation='AuxY' speaker='Διόνυσος' subdoc='1413'></word>
     <word form='ἡγοῦμαι' full='ἡγοῦμαι' head='8' id='4' lemma='ἡγέομαι' postag='v1spim---' relation='PRED_CO' speaker='Διόνυσος' subdoc='1413'></word>
     <word form='σοφὸν' full='σοφὸν' head='4' id='5' lemma='σοφός' postag='a-s---ma-' relation='OCOMP' speaker='Διόνυσος' subdoc='1413'></word>
-    <word form=',' full=',' head='0' id='6' lemma=',' postag='u--------' relation='AuxX' speaker='Αἰσχύλος' subdoc='1413'></word>
+    <word form=',' full=',' head='0' id='6' lemma=',' postag='u--------' relation='AuxX' speaker='Διόνυσος' subdoc='1413'></word>
     <word form='τῷ' full='τῷ' head='9' id='7' lemma='ὁ' postag='l-s---md-' relation='OBJ' speaker='Διόνυσος' subdoc='1413'></word>
     <word features='elision' form='δ’' full='δὲ' head='0' id='8' lemma='δέ' postag='c--------' relation='COORD' speaker='Διόνυσος' subdoc='1413'></word>
     <word form='ἥδομαι' full='ἥδομαι' head='8' id='9' lemma='ἥδομαι' postag='v1spim---' relation='PRED_CO' speaker='Διόνυσος' subdoc='1413'></word>
