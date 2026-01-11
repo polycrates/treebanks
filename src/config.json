@@ -80,6 +80,25 @@
       "text": "The template for this treebank publication is maintained by the Perseids Project."
     },
     {
+      "title": "Thucydides",
+      "publications": [
+       {
+          "path": "Thucydides",
+          "author": "Thucydides",
+          "work": "Peloponnesian War Book 2",
+          "editors": "David Chamberlain",
+          "sections": [
+            {
+              "locus": "1-1737",
+              "path": "Thucydides 2",
+              "xml": "thuc2treeTagged.xml",
+              "link": "https://www.hypotactic.com",
+              "notes": "",
+              "chunks": { "start": 1, "end": 1737 }
+            }
+          ]
+        },
+    {
       "title": "Apuleius",
       "publications": [
        {
