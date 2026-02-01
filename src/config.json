@@ -93,7 +93,7 @@
               "path": "Thucydides 2",
               "xml": "thuc2treeTagged.xml",
               "link": "https://www.hypotactic.com",
-              "notes": "Funeral Oration originally tagged by vgorman (modified here); treebank based on initial autotagging by the glaux project",
+              "notes": "Most of the Funeral Oration originally tagged by vgorman (modified here); treebank based on initial autotagging by the glaux project",
               "chunks": { "start": 1, "end": 797 }
             }
           ]
