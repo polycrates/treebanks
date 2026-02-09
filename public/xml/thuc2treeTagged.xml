@@ -656,7 +656,7 @@
     <word form='δὲ' head='0' id='2' lemma='δέ' postag='g--------' relation='COORD'></word>
     <word form='κατὰ' head='1' id='3' lemma='κατά' postag='r--------' relation='AuxP'></word>
     <word form='τὴν' head='5' id='4' lemma='ὁ' postag='l-s---fa-' relation='ATR'></word>
-    <word form='��������������������������������������όλιν' head='3' id='5' lemma='πόλις' postag='n-s---fa-' relation='ADV'></word>
+    <word form='����������������������������������������όλιν' head='3' id='5' lemma='πόλις' postag='n-s---fa-' relation='ADV'></word>
     <word form='οἱ' head='8' id='6' lemma='ὁ' postag='l-s---mn-' relation='ATR'></word>
     <word form='μέν' head='20' id='7' lemma='μέν' postag='g--------' relation='AuxY'></word>
     <word form='τινες' head='20' id='8' lemma='τις' postag='p-p---mn-' relation='SBJ'></word>
@@ -8520,10 +8520,10 @@
     <word id='24' insertion_id='0022g' artificial='elliptic' head='12' relation='OBJ_CO' lemma='εἰμί' postag='v--pna---' gloss='' form='εἶναι'></word>
   </sentence>
   <sentence id='299' subdoc='2.43.5'>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οὐ' head='6' id='1' lemma='οὐ' postag='d--------' relation='AuxZ'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οὐ' head='4' id='1' lemma='οὐ' postag='d--------' relation='AuxZ'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='γὰρ' head='6' id='2' lemma='γάρ' postag='g--------' relation='AuxY'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οἱ' head='4' id='3' lemma='ὁ' postag='l-p---mn-' relation='ATR'></word>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='κακοπραγοῦντες' head='6' id='4' lemma='κακοπραγέω' postag='v-pppamn-' relation='SBJ'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='κακοπραγοῦντες' head='17' id='4' lemma='κακοπραγέω' postag='v-pppamn-' relation='SBJ_CO'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='δικαιότερον' head='6' id='5' lemma='δίκαιος' postag='a-s---nac' relation='ADV'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἀφειδοῖεν' head='0' id='6' lemma='ἀφειδέω' postag='v3ppoa---' relation='PRED'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἂν' head='6' id='7' lemma='ἄν' postag='g--------' relation='AuxY'></word>
@@ -8533,10 +8533,10 @@
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οἷς' head='14' id='11' lemma='ὅς' postag='p-p---md-' relation='ADV'></word>
     <word animacy='nonconc' div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἐλπὶς' head='14' id='12' lemma='ἐλπίς' postag='n-s---fn-' relation='SBJ' sense='promise.n.02'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οὐκ' head='14' id='13' lemma='οὐ' postag='d--------' relation='AuxZ'></word>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἔστιν' head='17' id='14' lemma='εἰμί' postag='v3spia---' relation='ATR_CO'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἔστιν' head='4' id='14' lemma='εἰμί' postag='v3spia---' relation='ATR'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἀγαθοῦ' head='12' id='15' lemma='ἀγαθός' postag='a-s---ng-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form=',' head='0' id='16' lemma=',' postag='u--------' relation='AuxX'></word>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἀλλ’' head='4' id='17' lemma='ἀλλά' postag='c--------' relation='AuxY'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἀλλ’' head='6' id='17' lemma='ἀλλά' postag='c--------' relation='COORD'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οἷς' head='26' id='18' lemma='ὅς' postag='p-p---md-' relation='ADV'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἡ' head='21' id='19' lemma='ὁ' postag='l-s---fn-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἐναντία' head='21' id='20' lemma='ἐναντίος' postag='a-s---fn-' relation='ATR'></word>
@@ -8545,11 +8545,11 @@
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='τῷ' head='24' id='23' lemma='ὁ' postag='l-s---nd-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ζῆν' head='22' id='24' lemma='ζάω' postag='v--pna---' relation='ADV'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἔτι' head='26' id='25' lemma='ἔτι' postag='d--------' relation='ADV'></word>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='κινδυνεύεται' head='27' id='26' lemma='κινδυνεύω' postag='v3spip---' relation='ATR_CO'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='κινδυνεύεται' head='27' id='26' lemma='κινδυνεύω' postag='v3spip---' relation='SBJ_CO'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='καὶ' head='17' id='27' lemma='καί' postag='c--------' relation='COORD'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἐν' head='39' id='28' lemma='ἐν' postag='r--------' relation='AuxP'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='οἷς' head='28' id='29' lemma='ὅς' postag='p-p---md-' relation='ADV' gloss=''></word>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='μάλιστα' head='31' id='30' lemma='μάλα' postag='d-------s' relation='ADV'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='μάλιστα' head='31' id='30' lemma='μάλα' postag='d-------s' relation='AuxZ'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='μεγάλα' head='39' id='31' lemma='μέγας' postag='a-p---nn-' relation='PNOM'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='τὰ' head='33' id='32' lemma='ὁ' postag='l-p---nn-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='διαφέροντα' head='39' id='33' lemma='διαφέρω' postag='v-pppann-' relation='SBJ'></word>
@@ -8558,7 +8558,7 @@
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='τι' head='37' id='36' lemma='τις' postag='p-s---na-' relation='OBJ'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='πταίσωσιν' head='35' id='37' lemma='πταίω' postag='v3pasa---' relation='ADV'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.5' form='.' head='0' id='38' lemma='.' postag='u--------' relation='AuxK'></word>
-    <word artificial='elliptic' div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἐστι' head='27' id='39' insertion_id='1000022660e' lemma='E' postag='z--------' relation='ATR_CO'></word>
+    <word artificial='elliptic' div_book='2' div_chapter='2.43' div_section='2.43.5' form='ἐστι' head='27' id='39' insertion_id='1000022660e' lemma='E' postag='z--------' relation='SBJ_CO'></word>
   </sentence>
   <sentence id='300' subdoc='2.43.6'>
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='ἀλγεινοτέρα' head='26' id='1' lemma='ἀλγεινός' postag='a-s---fnc' relation='PNOM'></word>
@@ -8570,7 +8570,7 @@
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='ἡ' head='13' id='7' lemma='ὁ' postag='l-s---fn-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='μετὰ' head='13' id='8' lemma='μετά' postag='r--------' relation='AuxP'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='τοῦ' head='12' id='9' lemma='ὁ' postag='l-s---ng-' relation='ATR'></word>
-    <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='ἐν' form_original='[ἐν]' head='13' id='10' lemma='ἐν' postag='r--------' relation='AuxP'></word>
+    <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='ἐν' form_original='[ἐν]' head='13' id='10' lemma='ἐν' postag='r--------' relation='ExD'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='τῷ' form_original='[τῷ]' head='10' id='11' lemma='ὁ' postag='l-s---nd-' relation='ExD'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='μαλακισθῆναι' head='8' id='12' lemma='μαλακίζομαι' postag='v--anp---' relation='ATR'></word>
     <word animacy='nonconc' div_book='2' div_chapter='2.43' div_section='2.43.6' form='κάκωσις' head='26' id='13' lemma='κάκωσις' postag='n-s---fn-' relation='SBJ' sense='affliction.n.01'></word>
@@ -8586,7 +8586,7 @@
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='ἀναίσθητος' head='22' id='23' lemma='ἀναίσθητος' postag='a-s---mn-' relation='ADV'></word>
     <word animacy='nonconc' div_book='2' div_chapter='2.43' div_section='2.43.6' form='θάνατος' head='14' id='24' lemma='θάνατος' postag='n-s---mn-' relation='PNOM' sense='death.n.01'></word>
     <word div_book='2' div_chapter='2.43' div_section='2.43.6' form='.' head='0' id='25' lemma='.' postag='u--------' relation='AuxK'></word>
-    <word artificial='elliptic' div_book='2' div_chapter='2.43' div_section='2.43.6' form='E' head='0' id='26' insertion_id='1000022661e' lemma='E' postag='z--------' relation='PRED'></word>
+    <word artificial='elliptic' div_book='2' div_chapter='2.43' div_section='2.43.6' form='ἐστι' head='0' id='26' insertion_id='0002e' lemma='E' postag='z--------' relation='PRED'></word>
   </sentence>
   <sentence id='301' subdoc='2.44.1'>
     <word div_book='2' div_chapter='2.44' div_section='2.44.1' form='“' head='0' id='1' lemma='“' postag='u--------' relation='AuxG'></word>
@@ -8650,7 +8650,7 @@
     <word div_book='2' div_chapter='2.44' div_section='2.44.1' form='ἐντελευτῆσαι' head='29' id='30' lemma='ἐντελευτάω' postag='v--ana---' relation='ADV_CO'></word>
     <word div_book='2' div_chapter='2.44' div_section='2.44.1' form='ξυνεμετρήθη' head='22' id='31' lemma='συμμετρέω' postag='v3saip---' relation='ADV_CO'></word>
     <word div_book='2' div_chapter='2.44' div_section='2.44.1' form='.' head='0' id='32' lemma='.' postag='u--------' relation='AuxK'></word>
-    <word artificial='elliptic' div_book='2' div_chapter='2.44' div_section='2.44.1' form='E' head='2' id='33' insertion_id='1000022662e' lemma='E' postag='z--------' relation='PRED'></word>
+    <word artificial='elliptic' div_book='2' div_chapter='2.44' div_section='2.44.1' form='ἐστι' head='2' id='33' insertion_id='1000022662e' lemma='E' postag='z--------' relation='PRED'></word>
     <word artificial='elliptic' div_book='2' div_chapter='2.44' div_section='2.44.1' form='λελόγχασι' head='19' id='34' insertion_id='1000022663e' lemma='E' postag='z--------' relation='ADV_CO'></word>
     <word artificial='elliptic' div_book='2' div_chapter='2.44' div_section='2.44.1' form='λελόγχατε' head='19' id='35' insertion_id='1000022664e' lemma='E' postag='z--------' relation='ADV_CO'></word>
     <word id='36' insertion_id='0020e' artificial='elliptic' relation='ATR' lemma='εὐπρεπής' postag='a-s---fgs' gloss='' form='τῆς' head='37'></word>
@@ -10435,7 +10435,7 @@
     <word div_book='2' div_chapter='2.53' div_section='2.53.2' form='ποιεῖσθαι' head='9' id='10' lemma='ποιέω' postag='v--pnm---' relation='OBJ'></word>
     <word div_book='2' div_chapter='2.53' div_section='2.53.2' form=',' head='0' id='11' lemma=',' postag='u--------' relation='AuxX'></word>
     <word div_book='2' div_chapter='2.53' div_section='2.53.2' form='ἐφήμερα' head='20' id='12' lemma='ἐφήμερος' postag='a-p---na-' relation='OCOMP'></word>
-    <word div_book='2' div_chapter='2.53' div_section='2.53.2' form='τά' head='15' id='13' lemma='ὁ' postag='l-p---na-' relation='ATR'></word>
+    <word div_book='2' div_chapter='2.53' div_section='2.53.2' form='τά' head='15' id='13' lemma='��̔' postag='l-p---na-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.53' div_section='2.53.2' form='τε' head='16' id='14' lemma='τε' postag='c--------' relation='AuxY'></word>
     <word animacy='body' div_book='2' div_chapter='2.53' div_section='2.53.2' form='σώμ��τα' head='16' id='15' lemma='σῶμα' postag='n-p---na-' relation='OBJ_CO' sense='body.n.01'></word>
     <word div_book='2' div_chapter='2.53' div_section='2.53.2' form='καὶ' head='20' id='16' lemma='καί' postag='c--------' relation='COORD'></word>
@@ -11300,7 +11300,7 @@
     <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='τε' head='19' id='13' lemma='τε' postag='c--------' relation='AuxY'></word>
     <word animacy='place' div_book='2' div_chapter='2.59' div_section='2.59.1' form='γῆ' head='16' id='14' lemma='γῆ' postag='n-s---fn-' relation='SBJ' sense='country.n.02'></word>
     <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='αὐτῶν' head='14' id='15' lemma='αὐτός' postag='p-p---mg-' relation='ATR'></word>
-    <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='ἐτέτμητο' head='19' id='16' lemma='τέμνω' postag='v3slip---' relation='ADV_CO'></word>
+    <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='ἐτε��τμητο' head='19' id='16' lemma='τέμνω' postag='v3slip---' relation='ADV_CO'></word>
     <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='τὸ' head='18' id='17' lemma='ὁ' postag='l-s---na-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='δεύτερον' head='16' id='18' lemma='δεύτερος' postag='a-s---na-' relation='ADV'></word>
     <word div_book='2' div_chapter='2.59' div_section='2.59.1' form='καὶ' head='11' id='19' lemma='καί' postag='c--------' relation='COORD'></word>
@@ -13443,7 +13443,7 @@
     <word div_book='2' div_chapter='2.67' div_section='2.67.1' form=',' head='0' id='23' lemma=',' postag='u--------' relation='AuxX'></word>
     <word div_book='2' div_chapter='2.67' div_section='2.67.1' form='πορευόμενοι' head='41' id='24' lemma='πορεύω' postag='v-pppmmn-' relation='ADV'></word>
     <word div_book='2' div_chapter='2.67' div_section='2.67.1' form='ἐς' head='24' id='25' lemma='εἰς' postag='r--------' relation='AuxP'></word>
-    <word div_book='2' div_chapter='2.67' div_section='2.67.1' form='τ��̀ν' head='27' id='26' lemma='ὁ' postag='l-s---fa-' relation='ATR'></word>
+    <word div_book='2' div_chapter='2.67' div_section='2.67.1' form='τὴν' head='27' id='26' lemma='ὁ' postag='l-s---fa-' relation='ATR'></word>
     <word animacy='place' div_book='2' div_chapter='2.67' div_section='2.67.1' form='Ἀσίαν' head='25' id='27' lemma='Α��σία' postag='n-s---fa-' relation='OBJ' sense='mainland.n.01'></word>
     <word div_book='2' div_chapter='2.67' div_section='2.67.1' form='ὡς' head='24' id='28' lemma='ὡς' postag='c--------' relation='AuxP'></word>
     <word animacy='human' div_book='2' div_chapter='2.67' div_section='2.67.1' form='βασιλέα' head='28' id='29' lemma='βασιλε��́ς' postag='n-s---ma-' relation='OBJ' sense='king.n.01'></word>
@@ -13860,7 +13860,7 @@
   </sentence>
   <sentence id='488' subdoc='2.68.7'>
     <word div_book='2' div_chapter='2.68' div_section='2.68.7' form='οἱ' head='3' id='1' lemma='ὁ' postag='l-p---mn-' relation='ATR'></word>
-    <word div_book='2' div_chapter='2.68' div_section='2.68.7' form='δ’' head='10' id='2' lemma='δέ' postag='c--------' relation='AuxY'></word>
+    <word div_book='2' div_chapter='2.68' div_section='2.68.7' form='δ’' head='10' id='2' lemma='δ��́' postag='c--------' relation='AuxY'></word>
     <word animacy='human' div_book='2' div_chapter='2.68' div_section='2.68.7' form='Ἀμφίλοχοι' head='6' id='3' lemma='Ἀμφίλοχος' postag='n-p---mn-' relation='SBJ'></word>
     <word div_book='2' div_chapter='2.68' div_section='2.68.7' form='γενομένου' head='6' id='4' lemma='γίγνομαι' postag='v-sapmng-' relation='ADV'></word>
     <word div_book='2' div_chapter='2.68' div_section='2.68.7' form='τούτου' head='4' id='5' lemma='οὗτος' postag='p-s---ng-' relation='SBJ'></word>
@@ -15573,7 +15573,7 @@
     <word animacy='nonconc' div_book='2' div_chapter='2.76' div_section='2.76.4' form='χώσει' head='1' id='4' lemma='χῶσις' postag='n-s---fd-' relation='ADV'></word>
     <word div_book='2' div_chapter='2.76' div_section='2.76.4' form='καὶ' head='7' id='5' lemma='καί' postag='c--------' relation='AuxZ'></word>
     <word animacy='concrete' div_book='2' div_chapter='2.76' div_section='2.76.4' form='μηχανὰς' head='7' id='6' lemma='μηχανή' postag='n-p---fa-' relation='OBJ' sense='engine.n.04'></word>
-    <word div_book='2' div_chapter='2.76' div_section='2.76.4' form='προσῆγον' head='46' id='7' lemma='προσάγω' postag='v3piia---' relation='PRED'></word>
+    <word div_book='2' div_chapter='2.76' div_section='2.76.4' form='προσῆγον' head='46' id='7' lemma='προσά��ω' postag='v3piia---' relation='PRED'></word>
     <word div_book='2' div_chapter='2.76' div_section='2.76.4' form='οἱ' head='9' id='8' lemma='ὁ' postag='l-p---mn-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.76' div_section='2.76.4' form='Πελοποννήσιοι' head='7' id='9' lemma='Πελοποννήσιος' postag='a-p---mn-' relation='SBJ'></word>
     <word div_book='2' div_chapter='2.76' div_section='2.76.4' form='τῇ' head='11' id='10' lemma='ὁ' postag='l-s---fd-' relation='ATR'></word>
@@ -15993,7 +15993,7 @@
     <word div_book='2' div_chapter='2.78' div_section='2.78.3' form='πρότερον' head='18' id='17' lemma='πρότερος' postag='d-------c' relation='ADV'></word>
     <word div_book='2' div_chapter='2.78' div_section='2.78.3' form='ἐκκεκομισμένοι' head='25' id='18' lemma='ἐκκομίζω' postag='v-prppmn-' relation='PRED_CO'></word>
     <word div_book='2' div_chapter='2.78' div_section='2.78.3' form='ἦσαν' head='18' id='19' lemma='εἰμί' postag='v3piia---' relation='AuxV'></word>
-    <word div_book='2' div_chapter='2.78' div_section='2.78.3' form='ἐς' head='18' id='20' lemma='εἰς' postag='r--------' relation='AuxP'></word>
+    <word div_book='2' div_chapter='2.78' div_section='2.78.3' form='��̓ς' head='18' id='20' lemma='εἰς' postag='r--------' relation='AuxP'></word>
     <word div_book='2' div_chapter='2.78' div_section='2.78.3' form='τὰς' head='22' id='21' lemma='ὁ' postag='l-p---fa-' relation='ATR'></word>
     <word animacy='place' div_book='2' div_chapter='2.78' div_section='2.78.3' form='Ἀθήνας' head='20' id='22' lemma='Ἀθῆναι' postag='n-p---fa-' relation='OBJ' sense='acropolis.n.01'></word>
     <word div_book='2' div_chapter='2.78' div_section='2.78.3' form=',' head='0' id='23' lemma=',' postag='u--------' relation='AuxX'></word>
@@ -18990,7 +18990,7 @@
     <word div_book='2' div_chapter='2.89' div_section='2.89.8' form='τὸν' head='3' id='1' lemma='ὁ' postag='l-s---ma-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.89' div_section='2.89.8' form='δὲ' head='0' id='2' lemma='δέ' postag='c--------' relation='COORD'></word>
     <word animacy='nonconc' div_book='2' div_chapter='2.89' div_section='2.89.8' form='ἀγῶνα' head='10' id='3' lemma='ἀγών' postag='n-s---ma-' relation='SBJ' sense='contest.n.01'></word>
-    <word div_book='2' div_chapter='2.89' div_section='2.89.8' form='οὐκ' head='8' id='4' lemma='ου��' postag='d--------' relation='AuxZ'></word>
+    <word div_book='2' div_chapter='2.89' div_section='2.89.8' form='ου��κ' head='8' id='4' lemma='ου��' postag='d--------' relation='AuxZ'></word>
     <word div_book='2' div_chapter='2.89' div_section='2.89.8' form='ἐν' head='10' id='5' lemma='ἐν' postag='r--------' relation='AuxP'></word>
     <word div_book='2' div_chapter='2.89' div_section='2.89.8' form='τῷ' head='7' id='6' lemma='ὁ' postag='l-s---md-' relation='ATR'></word>
     <word animacy='body' div_book='2' div_chapter='2.89' div_section='2.89.8' form='κόλπῳ' head='5' id='7' lemma='κόλπος' postag='n-s---md-' relation='ADV' sense='gulf.n.01'></word>
@@ -19422,7 +19422,7 @@
     <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='δὲ' head='0' id='2' lemma='δέ' postag='c--------' relation='COORD'></word>
     <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='ἕνδεκα' head='8' id='3' lemma='ἕνδεκα' postag='m--------' relation='SBJ'></word>
     <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='μέν' head='8' id='4' lemma='μέν' postag='g--------' relation='AuxY'></word>
-    <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='τινες' head='3' id='5' lemma='τι��' postag='p-p---mn-' relation='ATR'></word>
+    <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='τινες' head='3' id='5' lemma='τις' postag='p-p---mn-' relation='ATR'></word>
     <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='αἵπερ' head='7' id='6' lemma='ὅς' postag='p-p---fn-' relation='SBJ'></word>
     <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='ἡγου����το' head='3' id='7' lemma='ἡγέομαι' postag='v3piim---' relation='ATR'></word>
     <word div_book='2' div_chapter='2.90' div_section='2.90.5' form='ὑπεκφεύγουσι' head='2' id='8' lemma='ὑπεκφεύγω' postag='v3ppia---' relation='PRED'></word>
@@ -20700,7 +20700,7 @@
     <word div_book='2' div_chapter='2.96' div_section='2.96.3' form='ἔσχατοι' head='19' id='15' lemma='ἔσχατος' postag='a-p---mn-' relation='PNOM'></word>
     <word div_book='2' div_chapter='2.96' div_section='2.96.3' form='τῆς' head='17' id='16' lemma='ὁ' postag='l-s---fg-' relation='ATR'></word>
     <word animacy='nonconc' div_book='2' div_chapter='2.96' div_section='2.96.3' form='ἀρχῆς' head='15' id='17' lemma='ἀρχή' postag='n-s---fg-' relation='ADV' sense='dominion.n.01'></word>
-    <word div_book='2' div_chapter='2.96' div_section='2.96.3' form='οὗτοι' head='19' id='18' lemma='οὗτος' postag='p-p---mn-' relation='SBJ'></word>
+    <word div_book='2' div_chapter='2.96' div_section='2.96.3' form='οὗτοι' head='19' id='18' lemma='οὗτ��ς' postag='p-p---mn-' relation='SBJ'></word>
     <word div_book='2' div_chapter='2.96' div_section='2.96.3' form='ἦσαν' head='14' id='19' lemma='εἰμί' postag='v3piia---' relation='ATR_CO'></word>
     <word div_book='2' div_chapter='2.96' div_section='2.96.3' form='·' head='0' id='20' lemma='·' postag='u--------' relation='AuxK'></word>
   </sentence>
